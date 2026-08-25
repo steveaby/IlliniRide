@@ -1,0 +1,978 @@
+review_id,booking_id,reviewer_id,reviewee_id,rating,comment,created_at
+2,1458,806,197,3,Decent ride but took longer than expected.,2016-09-24 17:46:00
+4,2226,691,364,4,"Good ride overall, no complaints.",2017-08-16 10:18:00
+6,1465,24,200,5,Very professional and courteous.,2016-09-25 01:56:00
+9,2430,611,427,5,Highly recommend this driver!,2017-11-29 12:58:00
+10,2386,995,412,4,Driver was friendly and mostly on time.,2017-11-25 18:10:00
+12,2648,249,513,5,Very professional and courteous.,2018-01-16 02:50:00
+13,103,104,34,3,Got there fine but driver was quiet.,2015-06-17 07:30:00
+14,23,249,8,4,"Good ride overall, no complaints.",2015-05-20 13:10:00
+16,2687,983,524,3,Got there fine but driver was quiet.,2018-01-23 02:11:00
+20,1917,655,258,5,"Fantastic ride, very smooth!",2016-12-14 07:50:00
+23,1484,845,207,4,"Good experience, car was clean.",2016-09-29 10:55:00
+24,339,445,115,3,Got there fine but driver was quiet.,2015-12-26 16:22:00
+27,270,387,92,4,Driver was friendly and mostly on time.,2015-09-30 22:19:00
+28,1806,849,254,4,"Nice driver, took a slightly longer route.",2016-11-30 01:30:00
+29,2554,75,475,5,Very professional and courteous.,2017-12-22 04:21:00
+30,2227,201,364,3,"Ride was okay, nothing special.",2017-08-15 19:18:00
+32,2534,609,160,4,"Nice driver, took a slightly longer route.",2017-12-17 11:06:00
+33,1495,474,212,5,Highly recommend this driver!,2016-09-30 22:01:00
+35,197,180,66,5,Best Uber experience I've had.,2015-09-18 01:47:00
+36,621,114,128,3,"Average experience, car could be cleaner.",2016-03-05 18:35:00
+37,36,309,12,3,"Ride was okay, nothing special.",2015-05-31 15:27:00
+39,2705,31,531,4,"Nice driver, took a slightly longer route.",2018-01-27 16:35:00
+40,218,290,73,5,Driver was super friendly and on time.,2015-09-24 00:21:00
+41,2749,928,550,5,Perfect ride from start to finish.,2018-02-11 01:12:00
+45,272,664,93,4,"Good ride overall, no complaints.",2015-09-29 22:09:00
+49,1392,642,188,4,Driver was friendly and mostly on time.,2016-08-28 15:37:00
+50,2829,460,578,3,Decent ride but took longer than expected.,2018-03-02 09:47:00
+51,2727,853,539,5,"Comfortable car, great conversation.",2018-02-01 19:18:00
+54,2664,879,518,5,Perfect ride from start to finish.,2018-01-18 11:22:00
+58,176,394,56,4,Driver was friendly and mostly on time.,2015-09-13 19:57:00
+59,300,604,101,4,"Nice driver, took a slightly longer route.",2015-10-21 23:40:00
+60,69,144,23,4,"Good ride overall, no complaints.",2015-06-15 13:18:00
+63,2335,965,399,5,Best Uber experience I've had.,2017-11-23 14:39:00
+64,40,407,14,3,Driver seemed distracted at times.,2015-06-03 21:14:00
+65,54,590,18,4,"Good experience, car was clean.",2015-06-07 15:59:00
+67,92,533,31,4,"Good experience, car was clean.",2015-06-15 18:37:00
+68,326,758,110,5,"Comfortable car, great conversation.",2015-11-28 07:42:00
+69,2755,616,552,3,"Average experience, car could be cleaner.",2018-02-11 19:46:00
+70,2340,576,400,4,"Solid ride, arrived safely.",2017-11-23 05:44:00
+71,2708,973,532,4,"Good experience, car was clean.",2018-01-29 05:18:00
+73,82,809,28,4,"Nice driver, took a slightly longer route.",2015-06-16 02:46:00
+74,51,430,18,4,"Comfortable trip, would ride again.",2015-06-07 00:59:00
+75,1466,549,201,4,"Nice driver, took a slightly longer route.",2016-09-25 16:46:00
+76,2235,304,115,5,"Comfortable car, great conversation.",2017-08-19 16:59:00
+78,344,77,118,4,"Solid ride, arrived safely.",2016-01-01 17:13:00
+79,2074,284,308,4,"Nice driver, took a slightly longer route.",2017-05-25 00:03:00
+81,2852,191,585,5,Perfect ride from start to finish.,2018-03-07 04:44:00
+83,2872,476,593,3,"Ride was okay, nothing special.",2018-03-14 18:42:00
+86,2956,744,628,4,"Comfortable trip, would ride again.",2018-04-28 08:05:00
+87,285,910,1,4,Driver was friendly and mostly on time.,2015-10-01 23:55:00
+88,683,576,129,4,"Nice driver, took a slightly longer route.",2016-03-15 05:30:00
+89,2103,73,317,3,Driver seemed distracted at times.,2017-06-05 23:35:00
+90,2256,934,373,4,"Nice driver, took a slightly longer route.",2017-08-20 10:10:00
+91,2611,465,497,5,Perfect ride from start to finish.,2018-01-07 14:52:00
+92,2262,135,376,5,Very professional and courteous.,2017-08-22 00:26:00
+93,1390,784,188,4,"Nice driver, took a slightly longer route.",2016-08-27 21:37:00
+94,1953,327,265,5,Perfect ride from start to finish.,2016-12-21 12:04:00
+96,46,613,16,4,"Solid ride, arrived safely.",2015-06-04 12:34:00
+97,2383,249,410,4,"Nice driver, took a slightly longer route.",2017-11-26 18:49:00
+98,2022,196,289,4,Driver was friendly and mostly on time.,2017-01-27 06:22:00
+101,301,315,101,4,"Good ride overall, no complaints.",2015-10-20 10:40:00
+105,2938,774,618,4,"Nice driver, took a slightly longer route.",2018-04-12 15:26:00
+107,2901,576,602,4,"Good experience, car was clean.",2018-03-20 09:36:00
+108,2353,648,404,4,Driver was friendly and mostly on time.,2017-11-23 18:13:00
+111,2439,213,429,5,Perfect ride from start to finish.,2017-11-28 11:08:00
+113,810,317,144,4,Driver was friendly and mostly on time.,2016-05-04 07:45:00
+114,1391,98,188,5,Clean car and great driver!,2016-08-28 19:37:00
+115,325,469,109,3,Got there fine but driver was quiet.,2015-11-14 20:17:00
+117,53,143,18,4,"Comfortable trip, would ride again.",2015-06-07 20:59:00
+119,2281,856,382,4,"Solid ride, arrived safely.",2017-09-14 18:58:00
+120,2650,507,513,3,Driver seemed distracted at times.,2018-01-15 13:50:00
+121,1221,640,176,4,"Solid ride, arrived safely.",2016-07-14 13:35:00
+125,2357,527,405,3,Got there fine but driver was quiet.,2017-11-24 23:44:00
+127,2882,362,595,3,"Average experience, car could be cleaner.",2018-03-16 11:45:00
+128,550,334,126,4,"Comfortable trip, would ride again.",2016-02-26 20:23:00
+130,2437,354,429,5,Driver was super friendly and on time.,2017-11-29 10:08:00
+133,782,894,141,4,"Good experience, car was clean.",2016-05-01 12:08:00
+134,2681,989,138,5,Perfect ride from start to finish.,2018-01-21 20:52:00
+137,1423,23,191,4,"Comfortable trip, would ride again.",2016-09-10 17:12:00
+138,2641,601,512,5,"Fantastic ride, very smooth!",2018-01-16 03:48:00
+141,2548,220,472,5,Clean car and great driver!,2017-12-19 13:02:00
+142,280,37,95,5,Highly recommend this driver!,2015-09-30 22:46:00
+143,20,144,8,3,"Average experience, car could be cleaner.",2015-05-21 08:10:00
+144,2415,354,420,5,Very professional and courteous.,2017-11-26 14:34:00
+145,1591,854,228,5,Clean car and great driver!,2016-10-28 19:37:00
+146,914,568,159,5,Highly recommend this driver!,2016-05-20 17:03:00
+149,164,32,52,4,"Good ride overall, no complaints.",2015-09-11 14:15:00
+150,2832,589,579,4,"Nice driver, took a slightly longer route.",2018-03-04 02:35:00
+151,2377,473,411,4,Driver was friendly and mostly on time.,2017-11-25 22:51:00
+153,141,240,46,4,Driver was friendly and mostly on time.,2015-07-09 20:05:00
+154,2495,254,455,3,Decent ride but took longer than expected.,2017-12-13 09:20:00
+155,922,226,163,5,"Comfortable car, great conversation.",2016-06-01 04:34:00
+156,70,805,23,3,Got there fine but driver was quiet.,2015-06-14 15:18:00
+158,2936,856,618,5,Best Uber experience I've had.,2018-04-14 11:26:00
+159,2735,660,542,3,"Average experience, car could be cleaner.",2018-02-07 04:11:00
+160,858,946,150,5,"Fantastic ride, very smooth!",2016-05-09 09:20:00
+161,2447,429,432,5,Highly recommend this driver!,2017-11-30 01:32:00
+162,2559,878,478,3,Driver seemed distracted at times.,2017-12-23 11:07:00
+164,2799,219,566,4,"Good ride overall, no complaints.",2018-02-17 15:36:00
+167,2119,899,323,4,"Good ride overall, no complaints.",2017-06-14 21:12:00
+168,410,815,121,4,"Good experience, car was clean.",2016-01-17 08:03:00
+170,169,510,55,5,Driver was super friendly and on time.,2015-09-12 12:39:00
+172,2521,957,465,4,"Comfortable trip, would ride again.",2017-12-15 13:27:00
+173,734,624,115,4,"Solid ride, arrived safely.",2016-04-06 07:39:00
+174,2173,967,343,5,Perfect ride from start to finish.,2017-07-05 05:45:00
+175,2043,481,296,5,Clean car and great driver!,2017-03-07 16:09:00
+179,1238,38,182,5,Highly recommend this driver!,2016-07-31 01:20:00
+180,2536,114,469,4,"Comfortable trip, would ride again.",2017-12-19 18:47:00
+183,2792,874,564,4,"Good experience, car was clean.",2018-02-17 00:06:00
+184,123,382,40,4,Driver was friendly and mostly on time.,2015-06-18 08:59:00
+185,413,325,122,5,Driver was super friendly and on time.,2016-01-20 08:14:00
+186,2833,20,579,3,"Average experience, car could be cleaner.",2018-03-03 13:35:00
+187,2897,461,600,5,"Comfortable car, great conversation.",2018-03-19 07:59:00
+189,18,186,7,4,"Solid ride, arrived safely.",2015-05-19 15:08:00
+191,2412,443,420,4,"Good ride overall, no complaints.",2017-11-27 17:34:00
+195,77,277,26,5,Highly recommend this driver!,2015-06-15 14:41:00
+199,2483,661,449,4,"Comfortable trip, would ride again.",2017-12-10 14:39:00
+201,296,990,100,3,Decent ride but took longer than expected.,2015-10-03 07:46:00
+202,2798,315,566,4,"Solid ride, arrived safely.",2018-02-17 01:36:00
+204,2779,789,562,4,"Good experience, car was clean.",2018-02-15 02:09:00
+206,1503,401,214,4,"Good experience, car was clean.",2016-10-02 05:39:00
+207,2380,853,410,5,Clean car and great driver!,2017-11-26 02:49:00
+209,2122,199,325,3,Decent ride but took longer than expected.,2017-06-15 21:52:00
+211,244,394,83,4,"Comfortable trip, would ride again.",2015-09-27 19:40:00
+212,2566,168,480,4,"Solid ride, arrived safely.",2017-12-23 04:25:00
+213,1230,864,179,4,"Solid ride, arrived safely.",2016-07-24 16:58:00
+214,2403,893,417,4,"Good ride overall, no complaints.",2017-11-26 08:44:00
+215,1640,417,232,3,"Ride was okay, nothing special.",2016-11-05 15:17:00
+216,2480,654,448,4,"Solid ride, arrived safely.",2017-12-09 03:33:00
+218,351,866,119,5,"Fantastic ride, very smooth!",2016-01-04 02:43:00
+219,72,720,25,4,"Good ride overall, no complaints.",2015-06-15 00:31:00
+220,104,145,34,5,Best Uber experience I've had.,2015-06-15 16:30:00
+221,2108,34,320,3,"Average experience, car could be cleaner.",2017-06-08 23:06:00
+222,2387,602,412,4,"Nice driver, took a slightly longer route.",2017-11-26 00:10:00
+223,2067,493,306,4,"Good experience, car was clean.",2017-04-28 09:36:00
+230,2691,720,526,3,"Average experience, car could be cleaner.",2018-01-25 23:39:00
+231,2642,173,512,4,Driver was friendly and mostly on time.,2018-01-15 16:48:00
+232,2332,880,398,5,"Fantastic ride, very smooth!",2017-11-20 03:20:00
+233,2571,450,482,5,Very professional and courteous.,2017-12-26 03:57:00
+235,2869,475,593,4,"Nice driver, took a slightly longer route.",2018-03-15 04:42:00
+236,2630,947,506,4,"Comfortable trip, would ride again.",2018-01-13 21:20:00
+237,2393,827,415,3,"Ride was okay, nothing special.",2017-11-27 10:06:00
+238,2110,785,321,5,"Comfortable car, great conversation.",2017-06-09 13:04:00
+241,1965,332,270,4,"Good experience, car was clean.",2016-12-30 01:24:00
+244,2785,257,563,5,"Fantastic ride, very smooth!",2018-02-15 10:54:00
+246,2016,511,286,5,Highly recommend this driver!,2017-01-20 19:19:00
+247,2875,155,594,5,Clean car and great driver!,2018-03-17 20:52:00
+248,1235,585,181,3,"Ride was okay, nothing special.",2016-07-30 00:20:00
+249,121,761,39,5,Very professional and courteous.,2015-06-16 22:13:00
+251,882,36,151,4,"Comfortable trip, would ride again.",2016-05-13 12:08:00
+255,2242,577,369,4,"Nice driver, took a slightly longer route.",2017-08-19 12:42:00
+257,2280,346,382,5,Very professional and courteous.,2017-09-15 06:58:00
+258,1954,617,266,5,"Fantastic ride, very smooth!",2016-12-24 00:05:00
+260,1070,645,144,4,"Good ride overall, no complaints.",2016-06-18 12:30:00
+261,2822,695,575,4,Driver was friendly and mostly on time.,2018-03-02 01:40:00
+262,2465,73,441,4,"Comfortable trip, would ride again.",2017-12-02 22:13:00
+265,2558,9,477,4,"Good ride overall, no complaints.",2017-12-22 16:19:00
+269,2828,197,577,5,Driver was super friendly and on time.,2018-03-01 16:18:00
+274,2475,457,445,3,Driver seemed distracted at times.,2017-12-07 00:09:00
+275,2303,183,316,5,Driver was super friendly and on time.,2017-11-01 16:56:00
+276,849,820,149,4,Driver was friendly and mostly on time.,2016-05-07 06:24:00
+279,2057,640,302,4,"Solid ride, arrived safely.",2017-04-03 01:38:00
+281,417,290,123,5,Very professional and courteous.,2016-01-19 09:38:00
+282,2354,705,404,5,"Fantastic ride, very smooth!",2017-11-24 12:13:00
+284,2165,520,228,4,"Comfortable trip, would ride again.",2017-07-01 11:07:00
+285,1932,358,115,3,Driver seemed distracted at times.,2016-12-14 08:42:00
+286,323,661,109,4,"Good experience, car was clean.",2015-11-14 05:17:00
+287,1571,925,219,5,Clean car and great driver!,2016-10-16 09:42:00
+289,2719,224,536,3,Got there fine but driver was quiet.,2018-01-31 15:47:00
+290,1931,337,259,4,"Nice driver, took a slightly longer route.",2016-12-14 17:09:00
+291,412,445,122,4,"Good experience, car was clean.",2016-01-20 10:14:00
+292,2788,466,563,5,Best Uber experience I've had.,2018-02-16 08:54:00
+293,2895,640,599,2,"Arrived late, not a great experience.",2018-03-16 22:50:00
+294,233,125,79,4,"Solid ride, arrived safely.",2015-09-25 06:31:00
+295,162,841,52,3,Driver seemed distracted at times.,2015-09-11 20:15:00
+296,1769,72,237,5,"Fantastic ride, very smooth!",2016-11-23 19:04:00
+297,2516,786,463,3,Decent ride but took longer than expected.,2017-12-15 10:14:00
+299,288,307,97,4,"Solid ride, arrived safely.",2015-10-01 21:39:00
+300,243,272,83,4,"Comfortable trip, would ride again.",2015-09-28 09:40:00
+303,880,267,151,5,Perfect ride from start to finish.,2016-05-12 06:08:00
+305,1593,563,228,4,"Good experience, car was clean.",2016-10-28 18:37:00
+306,1784,902,246,4,Driver was friendly and mostly on time.,2016-11-27 18:36:00
+308,2001,753,280,3,Driver seemed distracted at times.,2017-01-13 10:03:00
+309,1772,770,238,4,"Comfortable trip, would ride again.",2016-11-25 14:55:00
+310,2653,596,387,4,"Good ride overall, no complaints.",2018-01-15 23:37:00
+311,97,794,32,4,"Good experience, car was clean.",2015-06-16 22:57:00
+312,291,501,98,4,"Solid ride, arrived safely.",2015-10-02 04:56:00
+315,2243,402,370,4,"Comfortable trip, would ride again.",2017-08-20 08:44:00
+317,100,224,34,5,Clean car and great driver!,2015-06-17 13:30:00
+322,118,602,38,3,Driver seemed distracted at times.,2015-06-17 18:27:00
+323,1450,693,196,4,"Good experience, car was clean.",2016-09-24 08:41:00
+324,1991,55,279,5,Perfect ride from start to finish.,2017-01-13 15:29:00
+325,2531,758,468,4,"Good experience, car was clean.",2017-12-18 02:14:00
+326,693,321,132,5,Clean car and great driver!,2016-03-27 18:52:00
+327,2930,785,616,4,Driver was friendly and mostly on time.,2018-04-06 18:10:00
+328,2398,56,416,4,"Solid ride, arrived safely.",2017-11-25 17:19:00
+329,1993,281,279,4,"Solid ride, arrived safely.",2017-01-14 01:29:00
+332,1498,563,212,4,"Nice driver, took a slightly longer route.",2016-10-01 21:01:00
+333,2222,283,362,4,"Good ride overall, no complaints.",2017-08-15 10:44:00
+334,2327,178,397,4,"Nice driver, took a slightly longer route.",2017-11-16 19:15:00
+335,2885,347,596,4,"Good ride overall, no complaints.",2018-03-18 12:43:00
+336,2624,163,503,4,"Good ride overall, no complaints.",2018-01-10 18:03:00
+337,204,245,67,5,"Comfortable car, great conversation.",2015-09-18 20:57:00
+338,1930,31,259,4,"Comfortable trip, would ride again.",2016-12-15 06:09:00
+340,2580,749,485,4,"Solid ride, arrived safely.",2017-12-27 20:29:00
+341,2297,320,388,5,Highly recommend this driver!,2017-10-23 02:34:00
+342,1456,530,197,4,"Good ride overall, no complaints.",2016-09-25 00:46:00
+343,1231,643,179,5,Best Uber experience I've had.,2016-07-24 09:58:00
+345,147,999,49,4,"Comfortable trip, would ride again.",2015-09-08 04:29:00
+347,1969,805,272,4,"Nice driver, took a slightly longer route.",2016-12-29 14:56:00
+348,2054,709,300,4,"Solid ride, arrived safely.",2017-03-24 06:07:00
+349,2654,664,514,4,"Good experience, car was clean.",2018-01-17 00:03:00
+351,1573,601,221,4,"Nice driver, took a slightly longer route.",2016-10-18 23:44:00
+352,1493,408,211,5,"Comfortable car, great conversation.",2016-10-02 02:06:00
+354,2677,847,522,4,"Good experience, car was clean.",2018-01-20 10:59:00
+359,1255,117,184,5,Perfect ride from start to finish.,2016-08-03 05:01:00
+360,2861,755,588,4,Driver was friendly and mostly on time.,2018-03-13 03:59:00
+361,225,908,75,4,Driver was friendly and mostly on time.,2015-09-23 14:06:00
+362,692,995,132,5,Driver was super friendly and on time.,2016-03-26 08:52:00
+365,2850,621,585,5,"Fantastic ride, very smooth!",2018-03-07 23:44:00
+367,2825,638,576,5,Very professional and courteous.,2018-03-02 16:50:00
+368,226,233,76,4,Driver was friendly and mostly on time.,2015-09-23 14:28:00
+369,548,99,125,5,Clean car and great driver!,2016-02-23 19:44:00
+370,57,703,20,4,"Good ride overall, no complaints.",2015-06-12 21:28:00
+372,2233,545,115,5,Clean car and great driver!,2017-08-19 14:59:00
+373,2746,328,548,4,"Solid ride, arrived safely.",2018-02-10 10:48:00
+378,2137,241,331,5,"Fantastic ride, very smooth!",2017-06-20 06:18:00
+379,1774,963,240,5,Perfect ride from start to finish.,2016-11-27 04:10:00
+380,1641,834,232,3,Driver seemed distracted at times.,2016-11-03 21:17:00
+382,1797,142,251,4,"Good ride overall, no complaints.",2016-11-29 13:31:00
+383,2438,86,429,3,Driver seemed distracted at times.,2017-11-29 23:08:00
+384,2730,414,540,4,"Good experience, car was clean.",2018-02-03 09:20:00
+390,850,542,149,4,"Nice driver, took a slightly longer route.",2016-05-07 09:24:00
+393,783,330,142,4,"Good ride overall, no complaints.",2016-04-30 21:37:00
+394,153,755,50,4,"Comfortable trip, would ride again.",2015-09-11 13:00:00
+395,2955,468,627,4,"Solid ride, arrived safely.",2018-04-28 01:00:00
+396,2670,498,520,3,Decent ride but took longer than expected.,2018-01-18 23:05:00
+397,2871,922,593,5,"Comfortable car, great conversation.",2018-03-14 17:42:00
+400,145,730,48,4,Driver was friendly and mostly on time.,2015-07-10 04:33:00
+402,1785,79,247,4,"Good experience, car was clean.",2016-11-28 02:53:00
+404,1804,249,254,4,"Good experience, car was clean.",2016-11-30 06:30:00
+405,777,843,139,4,"Solid ride, arrived safely.",2016-04-19 09:38:00
+406,1970,45,272,4,"Good experience, car was clean.",2016-12-30 03:56:00
+412,2934,850,617,4,"Good experience, car was clean.",2018-04-11 11:20:00
+413,1956,293,267,4,"Good experience, car was clean.",2016-12-25 09:59:00
+416,284,809,1,5,Perfect ride from start to finish.,2015-10-01 19:55:00
+417,2657,647,515,5,Highly recommend this driver!,2018-01-17 02:53:00
+418,2158,632,338,3,"Average experience, car could be cleaner.",2017-06-21 09:08:00
+419,2510,255,461,4,"Good ride overall, no complaints.",2017-12-14 06:30:00
+421,2940,779,620,4,"Good ride overall, no complaints.",2018-04-14 06:13:00
+423,619,658,128,4,Driver was friendly and mostly on time.,2016-03-06 10:35:00
+424,2863,604,590,4,"Good experience, car was clean.",2018-03-12 17:19:00
+425,2546,767,472,5,Clean car and great driver!,2017-12-19 15:02:00
+426,1944,302,262,5,Driver was super friendly and on time.,2016-12-18 23:16:00
+427,1786,632,247,4,"Solid ride, arrived safely.",2016-11-28 09:53:00
+428,1960,82,268,4,Driver was friendly and mostly on time.,2016-12-25 03:15:00
+429,2396,704,415,5,Clean car and great driver!,2017-11-25 22:06:00
+430,2527,679,467,5,Clean car and great driver!,2017-12-16 03:48:00
+431,2371,168,409,4,"Good experience, car was clean.",2017-11-25 23:41:00
+432,1577,534,223,4,"Solid ride, arrived safely.",2016-10-24 03:46:00
+433,2197,136,352,4,"Good experience, car was clean.",2017-07-29 13:12:00
+434,86,164,30,3,Decent ride but took longer than expected.,2015-06-15 18:10:00
+436,2008,999,282,4,"Comfortable trip, would ride again.",2017-01-13 21:13:00
+437,2358,793,405,4,"Good experience, car was clean.",2017-11-24 00:44:00
+438,2169,209,341,5,"Comfortable car, great conversation.",2017-07-03 23:24:00
+442,2477,969,447,4,"Good experience, car was clean.",2017-12-08 11:29:00
+445,1461,757,199,5,Best Uber experience I've had.,2016-09-25 21:37:00
+446,1467,585,202,5,Very professional and courteous.,2016-09-25 23:59:00
+448,2405,82,417,4,"Comfortable trip, would ride again.",2017-11-26 18:44:00
+449,2064,444,304,4,"Solid ride, arrived safely.",2017-04-10 23:29:00
+450,2499,250,457,5,Clean car and great driver!,2017-12-13 11:39:00
+451,1086,29,173,5,"Comfortable car, great conversation.",2016-06-25 18:01:00
+456,345,771,118,5,"Fantastic ride, very smooth!",2016-01-01 22:13:00
+458,2493,582,455,4,"Good ride overall, no complaints.",2017-12-12 05:20:00
+459,2512,168,462,5,Perfect ride from start to finish.,2017-12-15 07:40:00
+460,1062,67,169,5,"Fantastic ride, very smooth!",2016-06-16 13:12:00
+461,2129,913,327,5,Perfect ride from start to finish.,2017-06-18 00:48:00
+465,2049,129,299,4,"Nice driver, took a slightly longer route.",2017-03-20 09:27:00
+467,697,70,133,4,Driver was friendly and mostly on time.,2016-03-26 13:37:00
+468,727,812,134,4,"Good experience, car was clean.",2016-04-04 00:05:00
+469,2125,834,326,4,"Comfortable trip, would ride again.",2017-06-16 20:57:00
+470,2406,437,418,4,"Solid ride, arrived safely.",2017-11-27 15:17:00
+471,2391,310,413,3,Got there fine but driver was quiet.,2017-11-26 11:03:00
+473,2211,295,356,4,Driver was friendly and mostly on time.,2017-08-09 14:28:00
+475,1933,526,260,3,Got there fine but driver was quiet.,2016-12-14 01:56:00
+477,1574,63,221,4,"Good experience, car was clean.",2016-10-18 22:26:00
+479,1227,416,177,5,Perfect ride from start to finish.,2016-07-23 06:03:00
+480,2713,650,534,3,Decent ride but took longer than expected.,2018-01-30 19:55:00
+481,232,960,78,4,"Good experience, car was clean.",2015-09-24 02:59:00
+482,1067,786,170,5,Perfect ride from start to finish.,2016-06-18 01:27:00
+484,2237,226,115,5,Driver was super friendly and on time.,2017-08-18 07:59:00
+485,212,109,69,3,Driver seemed distracted at times.,2015-09-19 12:59:00
+489,1415,494,41,4,"Good ride overall, no complaints.",2016-09-07 02:22:00
+490,2350,193,403,5,Best Uber experience I've had.,2017-11-24 20:41:00
+493,2157,40,338,4,"Comfortable trip, would ride again.",2017-06-21 15:08:00
+494,2490,936,452,3,"Ride was okay, nothing special.",2017-12-10 20:50:00
+495,246,499,83,4,"Good ride overall, no complaints.",2015-09-28 21:40:00
+496,2591,418,490,4,Driver was friendly and mostly on time.,2017-12-31 00:18:00
+497,2780,582,562,4,"Good experience, car was clean.",2018-02-16 02:09:00
+499,55,498,19,3,"Average experience, car could be cleaner.",2015-06-09 08:48:00
+501,2178,983,345,4,Driver was friendly and mostly on time.,2017-07-06 16:52:00
+502,206,71,68,4,"Good experience, car was clean.",2015-09-18 20:04:00
+503,2762,878,554,4,"Solid ride, arrived safely.",2018-02-14 00:04:00
+504,1068,511,144,4,"Nice driver, took a slightly longer route.",2016-06-18 11:30:00
+505,1451,339,196,4,"Nice driver, took a slightly longer route.",2016-09-25 04:41:00
+506,2245,454,370,4,"Nice driver, took a slightly longer route.",2017-08-20 00:44:00
+507,158,273,52,5,Very professional and courteous.,2015-09-12 10:29:00
+508,2213,963,357,5,Clean car and great driver!,2017-08-09 20:37:00
+509,2715,2,535,4,"Solid ride, arrived safely.",2018-01-30 21:23:00
+514,1796,332,250,4,"Good ride overall, no complaints.",2016-11-29 02:46:00
+518,2085,780,311,4,Driver was friendly and mostly on time.,2017-05-27 03:19:00
+519,84,917,28,3,"Average experience, car could be cleaner.",2015-06-15 01:46:00
+520,35,70,12,4,"Nice driver, took a slightly longer route.",2015-06-01 14:27:00
+522,1079,387,172,5,Highly recommend this driver!,2016-06-22 08:46:00
+523,2421,820,423,4,"Good ride overall, no complaints.",2017-11-29 08:26:00
+524,2932,522,617,4,"Good experience, car was clean.",2018-04-09 23:20:00
+525,1589,498,227,3,Driver seemed distracted at times.,2016-10-28 19:33:00
+526,1445,454,194,5,Driver was super friendly and on time.,2016-09-18 05:49:00
+527,16,387,6,5,Best Uber experience I've had.,2015-05-18 23:06:00
+530,696,327,133,4,"Comfortable trip, would ride again.",2016-03-26 13:37:00
+531,2487,230,451,5,"Fantastic ride, very smooth!",2017-12-11 07:02:00
+536,2478,735,447,3,Driver seemed distracted at times.,2017-12-09 15:29:00
+537,124,131,40,4,"Nice driver, took a slightly longer route.",2015-06-17 20:59:00
+538,2163,179,340,5,Perfect ride from start to finish.,2017-07-02 07:27:00
+539,2887,886,597,4,"Good ride overall, no complaints.",2018-03-18 01:04:00
+540,98,452,33,5,Very professional and courteous.,2015-06-17 08:19:00
+541,1232,880,179,4,"Comfortable trip, would ride again.",2016-07-25 04:58:00
+542,2842,886,581,5,Very professional and courteous.,2018-03-06 10:26:00
+544,2568,922,481,5,"Fantastic ride, very smooth!",2017-12-23 23:15:00
+545,892,182,115,5,Highly recommend this driver!,2016-05-14 06:39:00
+549,684,950,129,4,"Good experience, car was clean.",2016-03-15 02:30:00
+550,2498,234,457,4,"Good ride overall, no complaints.",2017-12-12 15:39:00
+551,297,777,100,5,Perfect ride from start to finish.,2015-10-06 18:56:00
+552,2790,902,564,4,"Good experience, car was clean.",2018-02-16 01:06:00
+554,290,56,97,4,"Comfortable trip, would ride again.",2015-10-02 19:39:00
+556,1444,526,193,5,Highly recommend this driver!,2016-09-12 21:01:00
+559,2542,370,472,4,"Solid ride, arrived safely.",2017-12-20 15:02:00
+561,912,715,159,5,Highly recommend this driver!,2016-05-20 08:03:00
+562,554,150,127,5,Best Uber experience I've had.,2016-03-02 08:56:00
+563,2032,978,292,5,Perfect ride from start to finish.,2017-02-09 09:03:00
+567,2207,287,355,4,Driver was friendly and mostly on time.,2017-08-04 06:59:00
+568,168,928,54,4,"Good ride overall, no complaints.",2015-09-13 02:59:00
+570,2182,869,346,3,"Average experience, car could be cleaner.",2017-07-06 11:38:00
+571,1794,149,250,5,Clean car and great driver!,2016-11-29 16:46:00
+572,926,677,163,4,"Nice driver, took a slightly longer route.",2016-06-01 08:34:00
+575,299,545,100,4,"Solid ride, arrived safely.",2015-10-06 09:56:00
+576,64,897,22,3,Got there fine but driver was quiet.,2015-06-16 01:44:00
+577,2454,976,437,4,Driver was friendly and mostly on time.,2017-11-29 12:59:00
+578,122,675,39,3,Got there fine but driver was quiet.,2015-06-17 01:13:00
+579,551,691,126,4,"Nice driver, took a slightly longer route.",2016-02-25 23:23:00
+581,2347,659,402,5,Highly recommend this driver!,2017-11-25 00:46:00
+582,102,920,34,4,Driver was friendly and mostly on time.,2015-06-16 03:30:00
+584,2334,15,399,4,"Solid ride, arrived safely.",2017-11-23 00:39:00
+587,2954,270,627,3,Got there fine but driver was quiet.,2018-04-27 07:00:00
+588,2291,824,386,4,"Good experience, car was clean.",2017-09-25 17:50:00
+589,2802,281,115,3,"Average experience, car could be cleaner.",2018-02-20 23:56:00
+591,2945,236,621,5,Perfect ride from start to finish.,2018-04-19 15:54:00
+592,917,147,151,4,"Nice driver, took a slightly longer route.",2016-05-29 08:24:00
+593,2567,900,481,5,Best Uber experience I've had.,2017-12-23 06:15:00
+595,2133,671,329,4,"Comfortable trip, would ride again.",2017-06-18 06:09:00
+596,1064,287,170,4,Driver was friendly and mostly on time.,2016-06-17 06:27:00
+597,334,821,112,4,"Comfortable trip, would ride again.",2015-12-02 23:34:00
+599,2635,255,507,4,Driver was friendly and mostly on time.,2018-01-13 19:02:00
+601,1592,691,228,5,Highly recommend this driver!,2016-10-30 00:37:00
+605,2267,24,378,3,Driver seemed distracted at times.,2017-09-03 07:23:00
+608,1250,622,183,5,Perfect ride from start to finish.,2016-08-02 16:59:00
+612,2208,777,240,4,Driver was friendly and mostly on time.,2017-08-08 00:04:00
+613,2298,720,388,4,"Comfortable trip, would ride again.",2017-10-22 21:34:00
+614,732,749,135,3,"Average experience, car could be cleaner.",2016-04-05 01:13:00
+616,1494,39,211,4,"Good experience, car was clean.",2016-10-01 09:06:00
+617,995,116,164,4,Driver was friendly and mostly on time.,2016-06-09 05:06:00
+619,2752,946,551,5,Best Uber experience I've had.,2018-02-10 20:05:00
+620,2909,392,606,5,"Comfortable car, great conversation.",2018-03-22 10:45:00
+621,2765,115,555,4,"Comfortable trip, would ride again.",2018-02-13 06:26:00
+623,2019,979,287,4,"Good ride overall, no complaints.",2017-01-25 22:33:00
+628,416,89,123,5,"Comfortable car, great conversation.",2016-01-19 17:38:00
+629,1948,922,264,4,"Nice driver, took a slightly longer route.",2016-12-18 05:22:00
+631,2549,984,473,4,"Comfortable trip, would ride again.",2017-12-21 02:37:00
+633,2712,664,534,3,Decent ride but took longer than expected.,2018-01-30 08:55:00
+634,81,368,27,4,"Good experience, car was clean.",2015-06-15 13:19:00
+636,224,381,75,4,Driver was friendly and mostly on time.,2015-09-23 03:06:00
+638,2429,652,427,3,Driver seemed distracted at times.,2017-11-28 07:58:00
+640,2325,664,396,5,Very professional and courteous.,2017-11-17 03:35:00
+641,2076,163,308,5,"Fantastic ride, very smooth!",2017-05-24 21:03:00
+642,2703,123,530,4,"Comfortable trip, would ride again.",2018-01-28 19:14:00
+644,306,235,43,4,"Nice driver, took a slightly longer route.",2015-10-20 13:39:00
+645,2420,712,423,3,"Average experience, car could be cleaner.",2017-11-28 13:26:00
+646,9,173,3,5,Clean car and great driver!,2015-05-14 12:38:00
+648,622,99,128,4,"Nice driver, took a slightly longer route.",2016-03-07 09:35:00
+650,780,870,141,5,Driver was super friendly and on time.,2016-05-01 06:08:00
+652,2323,602,395,3,Decent ride but took longer than expected.,2017-11-15 23:52:00
+653,2449,948,433,5,Best Uber experience I've had.,2017-11-30 07:05:00
+656,32,304,11,4,"Nice driver, took a slightly longer route.",2015-05-21 04:08:00
+658,2075,10,308,5,Clean car and great driver!,2017-05-24 21:03:00
+660,2823,404,575,5,Clean car and great driver!,2018-03-01 14:40:00
+662,2241,298,368,4,"Comfortable trip, would ride again.",2017-08-19 10:55:00
+664,2261,412,376,4,"Nice driver, took a slightly longer route.",2017-08-21 01:26:00
+666,2538,138,469,5,Best Uber experience I've had.,2017-12-20 04:47:00
+668,2605,959,495,4,"Solid ride, arrived safely.",2018-01-07 16:20:00
+669,2304,270,316,4,"Comfortable trip, would ride again.",2017-11-03 12:56:00
+670,2017,32,286,4,"Solid ride, arrived safely.",2017-01-21 16:19:00
+671,1807,230,254,5,Driver was super friendly and on time.,2016-11-30 12:30:00
+672,74,147,26,4,"Good ride overall, no complaints.",2015-06-15 23:41:00
+674,2384,687,412,4,"Good experience, car was clean.",2017-11-27 00:10:00
+675,129,49,43,4,"Comfortable trip, would ride again.",2015-06-18 20:05:00
+678,2102,896,317,5,"Comfortable car, great conversation.",2017-06-05 09:35:00
+679,2203,490,354,4,"Solid ride, arrived safely.",2017-07-30 01:25:00
+680,411,259,121,5,Very professional and courteous.,2016-01-17 15:03:00
+681,2345,859,402,4,"Solid ride, arrived safely.",2017-11-25 05:46:00
+682,1476,980,204,5,"Fantastic ride, very smooth!",2016-09-28 13:25:00
+685,2229,652,365,5,"Comfortable car, great conversation.",2017-08-14 22:08:00
+686,180,830,58,4,Driver was friendly and mostly on time.,2015-09-12 23:21:00
+687,2055,229,301,4,Driver was friendly and mostly on time.,2017-04-04 07:13:00
+688,2056,918,301,5,Highly recommend this driver!,2017-04-04 00:13:00
+689,63,588,21,4,Driver was friendly and mostly on time.,2015-06-13 04:01:00
+690,2397,791,416,5,"Fantastic ride, very smooth!",2017-11-26 01:19:00
+691,2164,702,228,4,"Solid ride, arrived safely.",2017-06-30 22:07:00
+693,1060,692,115,4,Driver was friendly and mostly on time.,2016-06-13 17:57:00
+694,1793,152,249,5,Best Uber experience I've had.,2016-11-29 14:26:00
+695,2951,391,625,4,"Solid ride, arrived safely.",2018-04-25 09:58:00
+696,2473,303,445,5,Driver was super friendly and on time.,2017-12-05 22:09:00
+697,251,999,85,4,"Good experience, car was clean.",2015-09-27 15:36:00
+698,2729,815,540,3,Got there fine but driver was quiet.,2018-02-03 01:20:00
+700,1958,863,267,4,"Good experience, car was clean.",2016-12-23 20:59:00
+701,78,652,27,3,Decent ride but took longer than expected.,2015-06-15 05:19:00
+702,2528,735,467,3,Driver seemed distracted at times.,2017-12-17 18:48:00
+704,2686,596,523,3,"Average experience, car could be cleaner.",2018-01-21 10:46:00
+708,2931,297,616,5,Highly recommend this driver!,2018-04-06 04:10:00
+710,1439,667,192,3,Driver seemed distracted at times.,2016-09-12 17:45:00
+711,2338,46,400,4,"Good ride overall, no complaints.",2017-11-23 09:16:00
+713,2366,410,408,4,"Nice driver, took a slightly longer route.",2017-11-25 23:19:00
+717,1626,300,231,3,"Average experience, car could be cleaner.",2016-11-03 19:46:00
+719,2680,563,522,3,"Ride was okay, nothing special.",2018-01-20 16:59:00
+720,997,802,165,3,Got there fine but driver was quiet.,2016-06-09 07:29:00
+721,1256,634,184,4,"Good ride overall, no complaints.",2016-08-02 04:01:00
+722,2424,798,424,4,"Good ride overall, no complaints.",2017-11-27 23:33:00
+726,902,897,155,5,Highly recommend this driver!,2016-05-16 09:54:00
+727,547,646,125,5,Driver was super friendly and on time.,2016-02-24 05:44:00
+728,2028,479,290,4,Driver was friendly and mostly on time.,2017-02-03 20:43:00
+729,2413,916,420,4,"Good experience, car was clean.",2017-11-26 17:34:00
+732,2857,652,587,4,"Good experience, car was clean.",2018-03-09 00:39:00
+733,2617,124,499,4,"Good experience, car was clean.",2018-01-08 01:44:00
+735,1978,80,275,5,Perfect ride from start to finish.,2016-12-30 15:52:00
+738,2514,68,462,5,Very professional and courteous.,2017-12-16 10:40:00
+742,10,447,3,5,Very professional and courteous.,2015-05-13 21:38:00
+744,2361,387,406,4,"Comfortable trip, would ride again.",2017-11-24 21:52:00
+747,2733,777,542,4,"Good ride overall, no complaints.",2018-02-07 16:11:00
+749,1448,74,172,4,"Solid ride, arrived safely.",2016-09-22 20:35:00
+751,215,55,72,4,"Comfortable trip, would ride again.",2015-09-20 19:32:00
+753,2859,846,588,4,"Solid ride, arrived safely.",2018-03-12 05:59:00
+754,2139,604,333,5,Perfect ride from start to finish.,2017-06-21 19:36:00
+755,2459,67,438,4,"Good experience, car was clean.",2017-12-01 23:56:00
+757,1073,679,165,4,"Solid ride, arrived safely.",2016-06-19 22:18:00
+758,1478,516,205,4,"Nice driver, took a slightly longer route.",2016-09-28 00:14:00
+759,2299,645,389,4,Driver was friendly and mostly on time.,2017-10-26 00:56:00
+760,2918,66,610,4,"Good ride overall, no complaints.",2018-03-31 07:43:00
+762,695,621,132,5,"Fantastic ride, very smooth!",2016-03-26 02:52:00
+764,2365,750,408,5,"Fantastic ride, very smooth!",2017-11-26 15:19:00
+765,2535,483,160,5,Best Uber experience I've had.,2017-12-17 07:06:00
+766,1258,124,184,5,Very professional and courteous.,2016-08-02 13:01:00
+767,828,467,146,4,"Good experience, car was clean.",2016-05-06 19:36:00
+768,2619,447,500,5,"Comfortable car, great conversation.",2018-01-07 23:21:00
+769,2003,875,281,5,"Comfortable car, great conversation.",2017-01-13 05:52:00
+770,132,331,44,5,Very professional and courteous.,2015-06-19 06:59:00
+771,1590,411,227,4,"Comfortable trip, would ride again.",2016-10-28 01:33:00
+772,2649,601,513,3,Driver seemed distracted at times.,2018-01-15 10:50:00
+773,2555,75,476,4,"Nice driver, took a slightly longer route.",2017-12-21 09:49:00
+775,44,376,15,3,"Ride was okay, nothing special.",2015-06-04 07:20:00
+776,1464,603,200,3,Got there fine but driver was quiet.,2016-09-25 20:56:00
+777,2639,903,510,5,Best Uber experience I've had.,2018-01-16 14:28:00
+778,2117,802,323,4,"Solid ride, arrived safely.",2017-06-14 20:12:00
+780,2389,46,413,4,"Good experience, car was clean.",2017-11-26 05:03:00
+782,2234,674,115,4,"Comfortable trip, would ride again.",2017-08-19 10:59:00
+785,2588,511,488,4,Driver was friendly and mostly on time.,2017-12-28 10:10:00
+786,21,650,8,4,Driver was friendly and mostly on time.,2015-05-20 09:10:00
+789,1421,183,191,3,"Ride was okay, nothing special.",2016-09-11 09:12:00
+791,2210,978,240,5,Highly recommend this driver!,2017-08-08 17:04:00
+794,2529,573,468,4,"Nice driver, took a slightly longer route.",2017-12-17 16:14:00
+795,321,706,108,4,"Solid ride, arrived safely.",2015-11-10 21:19:00
+797,2135,863,330,5,Driver was super friendly and on time.,2017-06-19 08:55:00
+799,2899,870,601,4,Driver was friendly and mostly on time.,2018-03-20 06:08:00
+800,2488,154,451,4,"Solid ride, arrived safely.",2017-12-10 14:02:00
+801,2109,911,321,5,"Fantastic ride, very smooth!",2017-06-09 10:04:00
+803,2058,706,302,3,Got there fine but driver was quiet.,2017-04-03 03:38:00
+804,848,187,149,4,"Solid ride, arrived safely.",2016-05-08 05:24:00
+805,2192,899,351,5,Driver was super friendly and on time.,2017-07-18 17:02:00
+806,1487,905,208,4,Driver was friendly and mostly on time.,2016-09-30 03:35:00
+808,101,90,34,4,Driver was friendly and mostly on time.,2015-06-16 11:30:00
+809,217,678,73,5,"Fantastic ride, very smooth!",2015-09-23 19:21:00
+812,60,564,21,3,Driver seemed distracted at times.,2015-06-13 18:01:00
+814,2631,753,506,4,"Solid ride, arrived safely.",2018-01-14 05:20:00
+820,765,215,138,4,"Comfortable trip, would ride again.",2016-04-12 17:44:00
+821,2461,475,440,4,"Good ride overall, no complaints.",2017-12-04 00:31:00
+823,241,13,84,4,"Comfortable trip, would ride again.",2015-09-27 16:13:00
+824,250,309,85,5,Highly recommend this driver!,2015-09-28 02:36:00
+825,1558,725,218,3,Got there fine but driver was quiet.,2016-10-11 08:44:00
+826,2342,607,401,4,"Nice driver, took a slightly longer route.",2017-11-24 00:25:00
+827,2613,681,498,5,Driver was super friendly and on time.,2018-01-09 11:47:00
+828,2584,634,487,4,"Nice driver, took a slightly longer route.",2017-12-27 23:23:00
+830,2481,234,448,4,"Comfortable trip, would ride again.",2017-12-09 23:33:00
+832,2445,771,432,5,Highly recommend this driver!,2017-11-29 13:32:00
+833,2061,210,303,4,"Good ride overall, no complaints.",2017-04-07 18:41:00
+834,1999,104,280,5,Very professional and courteous.,2017-01-13 18:03:00
+836,1916,368,257,4,"Nice driver, took a slightly longer route.",2016-12-13 11:23:00
+838,2878,189,594,4,Driver was friendly and mostly on time.,2018-03-16 12:52:00
+839,1240,411,182,5,"Fantastic ride, very smooth!",2016-07-29 22:20:00
+842,2698,747,529,5,Best Uber experience I've had.,2018-01-27 19:05:00
+848,1790,685,248,5,"Fantastic ride, very smooth!",2016-11-29 15:08:00
+849,2604,756,495,4,"Solid ride, arrived safely.",2018-01-05 22:20:00
+850,110,513,35,4,"Solid ride, arrived safely.",2015-06-17 02:21:00
+851,319,934,108,4,"Comfortable trip, would ride again.",2015-11-10 13:19:00
+855,2699,553,402,4,"Comfortable trip, would ride again.",2018-01-27 04:44:00
+856,341,660,117,5,Clean car and great driver!,2015-12-30 06:54:00
+858,1065,785,170,4,"Solid ride, arrived safely.",2016-06-18 10:27:00
+859,2742,845,546,4,"Solid ride, arrived safely.",2018-02-09 22:15:00
+860,2784,629,563,4,Driver was friendly and mostly on time.,2018-02-16 01:54:00
+861,2010,234,283,3,Decent ride but took longer than expected.,2017-01-14 02:47:00
+862,2860,354,588,3,Decent ride but took longer than expected.,2018-03-12 12:59:00
+865,2808,955,127,5,Highly recommend this driver!,2018-02-25 06:53:00
+869,2306,238,391,4,Driver was friendly and mostly on time.,2017-11-02 21:39:00
+870,908,124,158,4,"Comfortable trip, would ride again.",2016-05-18 07:18:00
+871,2501,651,458,5,Highly recommend this driver!,2017-12-13 02:21:00
+872,1557,120,217,3,"Ride was okay, nothing special.",2016-10-11 21:29:00
+873,2485,603,449,5,Highly recommend this driver!,2017-12-10 10:39:00
+874,2422,766,424,4,"Nice driver, took a slightly longer route.",2017-11-29 13:33:00
+878,741,428,132,4,"Nice driver, took a slightly longer route.",2016-04-08 04:29:00
+881,916,213,151,4,Driver was friendly and mostly on time.,2016-05-27 23:24:00
+885,2378,1,411,4,"Good experience, car was clean.",2017-11-26 19:51:00
+888,1442,43,193,5,Best Uber experience I've had.,2016-09-14 09:01:00
+890,254,68,87,5,Best Uber experience I've had.,2015-09-28 11:02:00
+891,2317,713,393,4,"Nice driver, took a slightly longer route.",2017-11-12 04:21:00
+894,167,96,54,5,Perfect ride from start to finish.,2015-09-12 09:59:00
+895,2908,642,606,5,Perfect ride from start to finish.,2018-03-23 08:45:00
+896,41,31,14,3,"Average experience, car could be cleaner.",2015-06-05 05:14:00
+897,2318,809,393,4,Driver was friendly and mostly on time.,2017-11-12 18:21:00
+899,2038,448,294,4,"Nice driver, took a slightly longer route.",2017-02-11 08:11:00
+900,2307,222,391,4,"Good ride overall, no complaints.",2017-11-03 11:39:00
+901,245,672,83,5,Driver was super friendly and on time.,2015-09-28 19:40:00
+902,2573,426,483,5,Best Uber experience I've had.,2017-12-24 18:08:00
+904,2912,890,607,4,"Nice driver, took a slightly longer route.",2018-03-27 06:46:00
+907,2843,893,582,4,"Solid ride, arrived safely.",2018-03-07 10:31:00
+910,95,10,31,5,Very professional and courteous.,2015-06-16 11:37:00
+911,2770,180,558,5,Driver was super friendly and on time.,2018-02-15 01:36:00
+912,2364,103,407,5,"Comfortable car, great conversation.",2017-11-26 05:48:00
+913,342,892,118,3,Decent ride but took longer than expected.,2015-12-31 13:13:00
+916,1072,678,171,4,"Good experience, car was clean.",2016-06-19 08:52:00
+919,846,265,148,4,"Solid ride, arrived safely.",2016-05-07 00:41:00
+920,2287,144,385,4,"Comfortable trip, would ride again.",2017-09-26 10:27:00
+922,2367,486,408,3,"Average experience, car could be cleaner.",2017-11-25 00:19:00
+925,879,734,151,4,Driver was friendly and mostly on time.,2016-05-11 21:08:00
+926,2258,290,375,4,"Good ride overall, no complaints.",2017-08-21 05:50:00
+927,138,867,4,5,"Fantastic ride, very smooth!",2015-06-18 18:35:00
+928,729,525,134,3,Driver seemed distracted at times.,2016-04-04 21:05:00
+933,2292,630,386,5,Perfect ride from start to finish.,2017-09-25 23:50:00
+937,2575,216,483,4,"Solid ride, arrived safely.",2017-12-25 14:08:00
+938,294,5,99,4,Driver was friendly and mostly on time.,2015-10-03 07:48:00
+942,2716,988,535,4,"Nice driver, took a slightly longer route.",2018-01-30 19:23:00
+944,2570,458,482,5,Clean car and great driver!,2017-12-25 13:57:00
+948,2444,361,432,5,Perfect ride from start to finish.,2017-11-28 23:32:00
+949,2623,384,503,5,Very professional and courteous.,2018-01-11 10:03:00
+951,105,772,34,5,Very professional and courteous.,2015-06-17 03:30:00
+953,2552,651,474,4,"Comfortable trip, would ride again.",2017-12-20 18:33:00
+956,31,109,11,4,"Good ride overall, no complaints.",2015-05-20 20:08:00
+958,1775,644,240,3,Got there fine but driver was quiet.,2016-11-25 12:10:00
+960,2395,355,415,4,Driver was friendly and mostly on time.,2017-11-26 22:06:00
+961,119,651,38,4,Driver was friendly and mostly on time.,2015-06-18 05:27:00
+962,99,361,33,4,Driver was friendly and mostly on time.,2015-06-15 16:19:00
+964,2539,336,470,5,Perfect ride from start to finish.,2017-12-19 06:40:00
+969,2848,52,584,4,"Solid ride, arrived safely.",2018-03-08 08:32:00
+972,2661,353,517,5,Best Uber experience I've had.,2018-01-17 20:52:00
+973,1081,113,173,4,"Solid ride, arrived safely.",2016-06-25 13:25:00
+974,996,751,164,4,"Solid ride, arrived safely.",2016-06-08 13:06:00
+975,918,612,161,4,"Comfortable trip, would ride again.",2016-05-29 14:28:00
+976,421,149,124,5,Driver was super friendly and on time.,2016-01-29 09:01:00
+977,2595,488,492,4,"Solid ride, arrived safely.",2018-01-04 22:47:00
+978,1417,648,189,5,Clean car and great driver!,2016-09-08 04:58:00
+981,187,831,61,4,"Comfortable trip, would ride again.",2015-09-14 03:04:00
+982,313,704,105,4,"Solid ride, arrived safely.",2015-10-30 13:38:00
+983,2188,849,349,4,"Good ride overall, no complaints.",2017-07-17 10:59:00
+984,803,667,143,4,Driver was friendly and mostly on time.,2016-05-03 22:35:00
+988,2569,51,482,4,"Good experience, car was clean.",2017-12-26 09:57:00
+990,2336,682,399,5,Perfect ride from start to finish.,2017-11-22 08:39:00
+993,13,344,5,4,"Good ride overall, no complaints.",2015-05-16 23:18:00
+994,2251,800,371,3,"Ride was okay, nothing special.",2017-08-21 14:21:00
+995,137,794,4,3,"Ride was okay, nothing special.",2015-06-18 18:35:00
+997,73,888,25,3,Decent ride but took longer than expected.,2015-06-16 03:31:00
+998,1992,453,279,5,"Comfortable car, great conversation.",2017-01-12 16:29:00
+999,2041,386,271,4,"Good experience, car was clean.",2017-03-07 16:45:00
+1004,1942,602,262,4,"Nice driver, took a slightly longer route.",2016-12-18 06:16:00
+1005,178,581,57,4,"Nice driver, took a slightly longer route.",2015-09-13 10:54:00
+1006,157,476,52,4,Driver was friendly and mostly on time.,2015-09-11 22:29:00
+1007,1441,214,192,5,"Comfortable car, great conversation.",2016-09-13 22:45:00
+1008,2877,970,594,4,"Comfortable trip, would ride again.",2018-03-17 12:52:00
+1010,125,538,41,5,Driver was super friendly and on time.,2015-06-18 22:59:00
+1011,195,680,65,5,Best Uber experience I've had.,2015-09-16 23:02:00
+1013,1984,1000,276,4,"Solid ride, arrived safely.",2017-01-08 17:10:00
+1019,1700,422,234,3,Got there fine but driver was quiet.,2016-11-10 12:44:00
+1020,2810,640,571,4,"Good ride overall, no complaints.",2018-02-24 02:40:00
+1021,2448,161,433,4,"Good ride overall, no complaints.",2017-11-30 11:05:00
+1024,1773,136,239,5,Very professional and courteous.,2016-11-26 02:47:00
+1026,1234,882,180,4,"Good experience, car was clean.",2016-07-30 07:35:00
+1030,816,212,145,3,"Average experience, car could be cleaner.",2016-05-04 21:32:00
+1031,2472,471,444,4,Driver was friendly and mostly on time.,2017-12-05 02:33:00
+1032,2796,683,565,5,Highly recommend this driver!,2018-02-16 15:29:00
+1033,2898,373,601,4,"Solid ride, arrived safely.",2018-03-20 15:08:00
+1035,2523,316,466,5,"Fantastic ride, very smooth!",2017-12-16 10:20:00
+1036,2577,986,484,4,"Good ride overall, no complaints.",2017-12-24 23:43:00
+1037,1088,423,174,4,"Nice driver, took a slightly longer route.",2016-06-26 09:03:00
+1039,2801,394,567,5,"Comfortable car, great conversation.",2018-02-20 08:15:00
+1040,1765,239,235,4,Driver was friendly and mostly on time.,2016-11-13 09:05:00
+1041,2929,523,616,4,"Good ride overall, no complaints.",2018-04-05 22:10:00
+1043,49,322,17,4,"Nice driver, took a slightly longer route.",2015-06-06 08:31:00
+1044,335,628,113,5,Driver was super friendly and on time.,2015-12-03 10:56:00
+1046,2925,54,614,4,"Nice driver, took a slightly longer route.",2018-04-05 13:54:00
+1052,419,985,124,5,Best Uber experience I've had.,2016-01-29 08:01:00
+1056,144,675,47,5,Driver was super friendly and on time.,2015-07-09 11:16:00
+1057,1446,241,194,3,Decent ride but took longer than expected.,2016-09-19 10:49:00
+1059,2443,887,430,4,"Good ride overall, no complaints.",2017-11-30 02:45:00
+1062,1497,85,212,4,"Comfortable trip, would ride again.",2016-10-01 23:01:00
+1063,2305,579,316,5,"Comfortable car, great conversation.",2017-11-02 09:56:00
+1065,355,821,120,3,"Ride was okay, nothing special.",2016-01-04 11:20:00
+1066,921,310,162,5,"Comfortable car, great conversation.",2016-05-30 00:17:00
+1068,1453,356,197,4,"Nice driver, took a slightly longer route.",2016-09-25 13:27:00
+1069,1779,22,243,4,"Good ride overall, no complaints.",2016-11-25 20:53:00
+1071,1764,458,235,3,Got there fine but driver was quiet.,2016-11-14 09:05:00
+1072,83,353,28,3,Driver seemed distracted at times.,2015-06-16 12:46:00
+1074,2821,21,574,4,"Good ride overall, no complaints.",2018-02-28 17:30:00
+1077,2244,830,370,4,"Good ride overall, no complaints.",2017-08-20 13:44:00
+1078,314,639,106,4,"Comfortable trip, would ride again.",2015-10-30 23:58:00
+1079,88,957,30,3,"Average experience, car could be cleaner.",2015-06-16 21:10:00
+1081,1624,714,231,3,Decent ride but took longer than expected.,2016-11-03 04:46:00
+1082,1485,831,207,4,"Nice driver, took a slightly longer route.",2016-09-29 07:55:00
+1083,2622,821,502,5,Very professional and courteous.,2018-01-11 03:38:00
+1086,1080,784,173,4,"Nice driver, took a slightly longer route.",2016-06-25 16:25:00
+1087,22,312,8,5,Clean car and great driver!,2015-05-19 18:10:00
+1089,1572,388,220,5,Clean car and great driver!,2016-10-17 14:59:00
+1090,2836,435,580,5,"Fantastic ride, very smooth!",2018-03-03 20:49:00
+1091,2042,803,271,4,"Nice driver, took a slightly longer route.",2017-03-08 15:45:00
+1092,2134,251,329,4,"Nice driver, took a slightly longer route.",2017-06-19 12:09:00
+1093,2689,941,525,5,Very professional and courteous.,2018-01-24 23:39:00
+1096,1225,473,177,4,"Nice driver, took a slightly longer route.",2016-07-22 17:03:00
+1099,2277,633,381,5,Highly recommend this driver!,2017-09-10 12:17:00
+1100,2113,759,322,5,"Comfortable car, great conversation.",2017-06-14 00:34:00
+1102,1843,512,256,3,"Average experience, car could be cleaner.",2016-12-06 09:27:00
+1103,1477,209,205,4,"Solid ride, arrived safely.",2016-09-28 04:14:00
+1104,2373,355,411,4,"Good ride overall, no complaints.",2017-11-26 11:51:00
+1106,418,785,123,5,Highly recommend this driver!,2016-01-20 01:38:00
+1107,2319,257,393,4,"Nice driver, took a slightly longer route.",2017-11-13 03:21:00
+1108,2682,22,138,4,"Solid ride, arrived safely.",2018-01-21 16:52:00
+1110,2322,6,395,4,"Solid ride, arrived safely.",2017-11-14 22:52:00
+1111,2156,406,338,5,Very professional and courteous.,2017-06-20 20:08:00
+1112,2652,370,387,4,"Solid ride, arrived safely.",2018-01-16 00:37:00
+1113,900,696,155,4,"Nice driver, took a slightly longer route.",2016-05-15 13:54:00
+1114,2215,7,359,5,Very professional and courteous.,2017-08-12 05:20:00
+1115,2269,496,379,4,"Nice driver, took a slightly longer route.",2017-09-04 14:11:00
+1116,2310,824,391,4,"Nice driver, took a slightly longer route.",2017-11-02 01:39:00
+1117,269,918,92,5,Best Uber experience I've had.,2015-09-30 22:19:00
+1120,1994,533,164,4,"Nice driver, took a slightly longer route.",2017-01-12 14:34:00
+1124,271,576,93,4,"Good experience, car was clean.",2015-09-30 22:09:00
+1127,75,593,26,4,Driver was friendly and mostly on time.,2015-06-15 21:41:00
+1128,1998,404,280,5,Best Uber experience I've had.,2017-01-14 04:03:00
+1129,2684,870,523,5,Highly recommend this driver!,2018-01-22 02:46:00
+1130,2051,277,299,5,Driver was super friendly and on time.,2017-03-20 09:11:00
+1132,890,863,152,4,"Solid ride, arrived safely.",2016-05-15 00:09:00
+1133,2272,791,380,4,"Good experience, car was clean.",2017-09-06 05:27:00
+1134,2927,239,615,5,"Fantastic ride, very smooth!",2018-04-06 09:36:00
+1137,2009,857,283,5,Clean car and great driver!,2017-01-13 15:47:00
+1138,2425,802,425,4,Driver was friendly and mostly on time.,2017-11-28 05:57:00
+1139,2814,122,572,3,Got there fine but driver was quiet.,2018-02-28 06:53:00
+1140,1945,620,262,4,Driver was friendly and mostly on time.,2016-12-18 21:16:00
+1141,37,47,12,5,Driver was super friendly and on time.,2015-06-01 10:27:00
+1142,2328,486,397,5,Driver was super friendly and on time.,2017-11-16 15:15:00
+1143,174,91,56,3,Decent ride but took longer than expected.,2015-09-12 22:57:00
+1144,1800,721,252,5,Clean car and great driver!,2016-11-28 20:56:00
+1146,209,907,70,5,Very professional and courteous.,2015-09-18 20:05:00
+1147,2219,89,361,5,"Fantastic ride, very smooth!",2017-08-12 18:36:00
+1148,93,698,31,5,Perfect ride from start to finish.,2015-06-16 03:37:00
+1149,2506,200,460,5,Best Uber experience I've had.,2017-12-13 17:40:00
+1151,2508,890,461,4,Driver was friendly and mostly on time.,2017-12-15 04:30:00
+1153,2094,89,314,3,"Ride was okay, nothing special.",2017-06-03 00:53:00
+1154,337,885,113,4,"Solid ride, arrived safely.",2015-12-02 18:56:00
+1156,2186,362,348,4,Driver was friendly and mostly on time.,2017-07-07 14:35:00
+1157,1492,520,210,4,"Solid ride, arrived safely.",2016-10-01 09:52:00
+1158,2494,537,455,4,"Solid ride, arrived safely.",2017-12-12 19:20:00
+1159,2540,588,470,4,"Good experience, car was clean.",2017-12-18 23:40:00
+1160,2190,294,350,4,"Good experience, car was clean.",2017-07-18 17:48:00
+1163,194,966,65,4,"Nice driver, took a slightly longer route.",2015-09-17 19:02:00
+1165,2467,410,442,5,Clean car and great driver!,2017-12-04 00:29:00
+1166,733,789,135,4,"Comfortable trip, would ride again.",2016-04-03 21:13:00
+1167,2101,387,317,4,Driver was friendly and mostly on time.,2017-06-06 00:35:00
+1169,2202,777,354,5,Perfect ride from start to finish.,2017-07-29 19:25:00
+1170,2590,937,490,4,"Comfortable trip, would ride again.",2018-01-01 06:18:00
+1176,2355,853,404,4,"Nice driver, took a slightly longer route.",2017-11-24 14:13:00
+1177,1347,258,187,5,"Comfortable car, great conversation.",2016-08-10 18:39:00
+1178,114,18,36,4,"Good ride overall, no complaints.",2015-06-16 12:52:00
+1182,298,855,100,4,"Good ride overall, no complaints.",2015-10-06 13:56:00
+1183,2847,765,583,5,"Fantastic ride, very smooth!",2018-03-06 16:47:00
+1185,2446,223,432,4,"Nice driver, took a slightly longer route.",2017-11-28 22:32:00
+1187,1239,501,182,4,"Comfortable trip, would ride again.",2016-07-30 13:20:00
+1188,2906,386,604,4,"Nice driver, took a slightly longer route.",2018-03-22 04:38:00
+1189,161,268,52,4,"Nice driver, took a slightly longer route.",2015-09-11 18:15:00
+1190,275,155,94,4,"Solid ride, arrived safely.",2015-09-30 04:38:00
+1192,2221,141,361,5,Perfect ride from start to finish.,2017-08-13 23:36:00
+1194,29,458,10,5,Driver was super friendly and on time.,2015-05-20 23:33:00
+1196,240,896,84,5,Very professional and courteous.,2015-09-28 17:13:00
+1197,239,941,84,5,Driver was super friendly and on time.,2015-09-27 11:13:00
+1199,310,708,103,4,Driver was friendly and mostly on time.,2015-10-27 11:06:00
+1200,2841,967,580,4,"Comfortable trip, would ride again.",2018-03-03 05:49:00
+1201,7,151,3,4,"Solid ride, arrived safely.",2015-05-14 02:38:00
+1202,913,380,159,3,"Average experience, car could be cleaner.",2016-05-19 21:03:00
+1203,58,505,20,5,Driver was super friendly and on time.,2015-06-14 02:28:00
+1205,1542,568,216,5,Very professional and courteous.,2016-10-10 09:03:00
+1206,186,858,61,5,Best Uber experience I've had.,2015-09-14 07:04:00
+1208,8,66,3,5,Highly recommend this driver!,2015-05-13 20:38:00
+1212,191,736,63,4,"Nice driver, took a slightly longer route.",2015-09-15 02:46:00
+1214,2311,631,391,4,"Solid ride, arrived safely.",2017-11-03 03:39:00
+1215,1801,90,252,4,"Nice driver, took a slightly longer route.",2016-11-29 23:56:00
+1218,2096,370,315,5,Driver was super friendly and on time.,2017-06-02 17:27:00
+1219,1950,577,264,5,Driver was super friendly and on time.,2016-12-18 04:22:00
+1220,2585,425,487,5,Best Uber experience I've had.,2017-12-27 22:23:00
+1221,1454,803,197,5,Perfect ride from start to finish.,2016-09-24 10:27:00
+1222,2644,728,512,3,Decent ride but took longer than expected.,2018-01-16 21:48:00
+1223,1996,112,164,4,"Good ride overall, no complaints.",2017-01-13 21:34:00
+1225,2830,444,578,4,"Nice driver, took a slightly longer route.",2018-03-02 13:47:00
+1226,2943,665,621,4,"Solid ride, arrived safely.",2018-04-20 19:54:00
+1227,1500,80,213,4,"Good experience, car was clean.",2016-10-01 06:43:00
+1228,2881,62,595,4,"Solid ride, arrived safely.",2018-03-18 07:45:00
+1229,2692,662,526,4,"Nice driver, took a slightly longer route.",2018-01-26 14:39:00
+1230,140,924,45,5,Highly recommend this driver!,2015-06-30 00:28:00
+1231,889,649,81,4,"Good ride overall, no complaints.",2016-05-14 15:45:00
+1235,2532,966,160,5,Driver was super friendly and on time.,2017-12-17 05:06:00
+1236,909,702,158,5,Clean car and great driver!,2016-05-19 11:18:00
+1238,2065,840,305,3,"Ride was okay, nothing special.",2017-04-27 09:31:00
+1242,2180,752,346,4,"Comfortable trip, would ride again.",2017-07-07 12:38:00
+1245,2711,441,533,4,"Good experience, car was clean.",2018-01-30 16:11:00
+1249,1082,584,173,4,"Nice driver, took a slightly longer route.",2016-06-25 07:25:00
+1250,2651,227,513,4,"Solid ride, arrived safely.",2018-01-16 13:50:00
+1251,1979,840,276,5,Highly recommend this driver!,2017-01-08 03:10:00
+1252,113,76,36,4,"Nice driver, took a slightly longer route.",2015-06-17 22:52:00
+1253,2678,42,522,5,Best Uber experience I've had.,2018-01-20 16:59:00
+1254,2411,305,419,5,Best Uber experience I've had.,2017-11-26 08:46:00
+1255,2040,569,295,4,Driver was friendly and mostly on time.,2017-02-14 15:19:00
+1256,2710,726,533,4,"Good ride overall, no complaints.",2018-01-30 03:11:00
+1257,2143,189,334,5,"Fantastic ride, very smooth!",2017-06-20 07:38:00
+1259,2007,182,282,4,"Solid ride, arrived safely.",2017-01-13 13:13:00
+1260,2341,360,400,5,Very professional and courteous.,2017-11-21 19:44:00
+1263,2246,437,370,5,Highly recommend this driver!,2017-08-20 20:44:00
+1264,2807,9,570,5,Driver was super friendly and on time.,2018-02-23 14:36:00
+1265,2889,379,597,5,Driver was super friendly and on time.,2018-03-17 00:04:00
+1266,227,859,76,5,Best Uber experience I've had.,2015-09-23 17:28:00
+1267,2557,665,476,4,Driver was friendly and mostly on time.,2017-12-21 05:49:00
+1268,2781,123,562,4,"Solid ride, arrived safely.",2018-02-14 18:09:00
+1270,915,725,160,4,"Nice driver, took a slightly longer route.",2016-05-21 08:39:00
+1271,210,425,70,4,Driver was friendly and mostly on time.,2015-09-18 04:05:00
+1272,2388,193,413,3,Got there fine but driver was quiet.,2017-11-27 09:03:00
+1273,1915,798,257,4,"Nice driver, took a slightly longer route.",2016-12-13 02:23:00
+1275,196,326,66,5,Best Uber experience I've had.,2015-09-17 15:47:00
+1277,331,708,112,4,"Good experience, car was clean.",2015-12-02 13:34:00
+1279,2688,99,525,4,Driver was friendly and mostly on time.,2018-01-26 05:39:00
+1280,2603,108,494,4,"Solid ride, arrived safely.",2018-01-06 18:47:00
+1282,305,20,43,4,Driver was friendly and mostly on time.,2015-10-21 17:39:00
+1284,1540,484,215,4,"Good ride overall, no complaints.",2016-10-10 08:48:00
+1285,1279,719,185,5,"Fantastic ride, very smooth!",2016-08-03 04:46:00
+1287,2738,807,543,4,"Nice driver, took a slightly longer route.",2018-02-07 18:04:00
+1288,1584,464,225,4,"Good ride overall, no complaints.",2016-10-28 03:17:00
+1289,2797,661,566,3,"Ride was okay, nothing special.",2018-02-18 04:36:00
+1290,2216,502,359,4,Driver was friendly and mostly on time.,2017-08-12 16:20:00
+1291,2223,466,362,4,"Comfortable trip, would ride again.",2017-08-15 00:44:00
+1292,332,873,112,5,"Comfortable car, great conversation.",2015-12-02 06:34:00
+1294,2410,333,419,4,Driver was friendly and mostly on time.,2017-11-27 05:46:00
+1295,2858,257,588,4,"Solid ride, arrived safely.",2018-03-12 22:59:00
+1296,2776,635,115,4,Driver was friendly and mostly on time.,2018-02-14 06:11:00
+1298,1582,59,224,4,"Solid ride, arrived safely.",2016-10-26 20:03:00
+1302,1193,30,175,5,"Fantastic ride, very smooth!",2016-07-10 13:57:00
+1304,2759,292,554,4,Driver was friendly and mostly on time.,2018-02-13 04:04:00
+1307,2060,254,303,3,Driver seemed distracted at times.,2017-04-07 17:41:00
+1308,208,172,70,4,"Solid ride, arrived safely.",2015-09-17 22:05:00
+1309,2118,872,323,4,Driver was friendly and mostly on time.,2017-06-14 01:12:00
+1310,2544,793,472,4,"Comfortable trip, would ride again.",2017-12-20 09:02:00
+1312,2907,378,605,3,Got there fine but driver was quiet.,2018-03-23 12:08:00
+1313,318,537,107,3,Got there fine but driver was quiet.,2015-11-08 10:23:00
+1315,2497,929,456,5,Very professional and courteous.,2017-12-11 21:40:00
+1316,2230,729,366,4,"Comfortable trip, would ride again.",2017-08-17 01:57:00
+1318,302,173,101,4,"Solid ride, arrived safely.",2015-10-20 13:40:00
+1319,2265,526,378,4,"Nice driver, took a slightly longer route.",2017-09-03 14:23:00
+1322,2295,69,388,5,"Fantastic ride, very smooth!",2017-10-22 13:34:00
+1324,1561,924,218,3,Got there fine but driver was quiet.,2016-10-11 10:44:00
+1325,277,416,95,4,"Good ride overall, no complaints.",2015-09-29 17:46:00
+1326,2339,281,400,4,"Good ride overall, no complaints.",2017-11-22 00:44:00
+1327,2662,216,115,3,Driver seemed distracted at times.,2018-01-17 08:58:00
+1334,1076,462,172,4,Driver was friendly and mostly on time.,2016-06-21 10:46:00
+1337,2627,924,505,5,Perfect ride from start to finish.,2018-01-12 09:58:00
+1338,1766,837,138,3,Got there fine but driver was quiet.,2016-11-20 07:17:00
+1339,2179,553,346,5,Very professional and courteous.,2017-07-06 23:38:00
+1340,2206,604,355,4,"Good experience, car was clean.",2017-08-05 13:59:00
+1342,2044,364,296,5,"Comfortable car, great conversation.",2017-03-07 13:09:00
+1343,920,803,162,4,"Good experience, car was clean.",2016-05-31 06:17:00
+1346,170,31,55,3,Got there fine but driver was quiet.,2015-09-12 15:39:00
+1347,343,171,118,4,"Comfortable trip, would ride again.",2015-12-31 11:13:00
+1348,2723,792,537,5,"Comfortable car, great conversation.",2018-01-31 20:54:00
+1349,2312,151,391,3,"Ride was okay, nothing special.",2017-11-02 21:39:00
+1351,2404,692,417,5,"Comfortable car, great conversation.",2017-11-26 02:44:00
+1353,139,752,45,4,"Nice driver, took a slightly longer route.",2015-06-30 19:28:00
+1354,2204,718,354,3,Got there fine but driver was quiet.,2017-07-31 04:25:00
+1356,1502,783,213,5,Highly recommend this driver!,2016-10-01 22:43:00
+1357,96,393,32,3,"Ride was okay, nothing special.",2015-06-15 22:57:00
+1359,24,610,9,5,Highly recommend this driver!,2015-05-19 15:37:00
+1360,2027,151,290,4,"Good ride overall, no complaints.",2017-02-05 06:43:00
+1362,259,379,89,3,"Ride was okay, nothing special.",2015-09-29 21:05:00
+1364,2128,672,327,5,"Comfortable car, great conversation.",2017-06-17 01:48:00
+1368,1437,811,192,5,"Fantastic ride, very smooth!",2016-09-14 08:45:00
+1369,1587,241,227,4,Driver was friendly and mostly on time.,2016-10-28 04:33:00
+1372,1959,992,267,5,Clean car and great driver!,2016-12-25 02:59:00
+1374,1701,127,234,4,"Nice driver, took a slightly longer route.",2016-11-10 14:44:00
+1375,2416,951,421,4,"Solid ride, arrived safely.",2017-11-27 19:38:00
+1376,2771,359,558,5,"Comfortable car, great conversation.",2018-02-14 09:36:00
+1377,2184,323,347,4,"Good ride overall, no complaints.",2017-07-07 05:51:00
+1380,90,673,29,4,"Solid ride, arrived safely.",2015-06-15 23:58:00
+1381,2811,933,571,5,Highly recommend this driver!,2018-02-24 07:40:00
+1382,2407,346,418,4,"Solid ride, arrived safely.",2017-11-26 01:17:00
+1384,691,968,131,3,Decent ride but took longer than expected.,2016-03-21 22:50:00
+1385,154,336,50,5,Highly recommend this driver!,2015-09-10 00:00:00
+1388,182,255,59,4,"Good experience, car was clean.",2015-09-14 22:29:00
+1390,1682,969,233,4,"Comfortable trip, would ride again.",2016-11-10 07:08:00
+1395,2408,18,419,4,"Good experience, car was clean.",2017-11-26 08:46:00
+1398,2744,380,547,5,"Fantastic ride, very smooth!",2018-02-10 21:16:00
+1399,1490,518,209,4,"Good ride overall, no complaints.",2016-09-29 05:56:00
+1400,1393,459,188,5,Best Uber experience I've had.,2016-08-28 00:37:00
+1401,2753,433,551,3,"Average experience, car could be cleaner.",2018-02-10 19:05:00
+1406,1443,478,193,5,Clean car and great driver!,2016-09-13 18:01:00
+1407,2610,220,497,4,"Good ride overall, no complaints.",2018-01-06 02:52:00
+1408,2289,897,385,5,Driver was super friendly and on time.,2017-09-26 12:27:00
+1409,216,105,72,5,Best Uber experience I've had.,2015-09-20 17:32:00
+1415,2248,171,371,4,"Nice driver, took a slightly longer route.",2017-08-19 16:21:00
+1416,2614,99,498,3,Driver seemed distracted at times.,2018-01-08 17:47:00
+1417,2718,550,536,3,Driver seemed distracted at times.,2018-01-31 10:47:00
+1419,2153,303,338,5,Highly recommend this driver!,2017-06-20 19:08:00
+1421,923,477,163,4,"Solid ride, arrived safely.",2016-06-02 02:34:00
+1422,213,77,69,5,"Fantastic ride, very smooth!",2015-09-19 03:59:00
+1424,1071,967,144,3,"Ride was okay, nothing special.",2016-06-18 21:30:00
+1425,257,898,88,5,Perfect ride from start to finish.,2015-09-29 11:00:00
+1426,2582,920,485,3,"Ride was okay, nothing special.",2017-12-26 07:29:00
+1428,2851,725,585,5,Very professional and courteous.,2018-03-07 18:44:00
+1430,2343,643,401,4,"Good ride overall, no complaints.",2017-11-23 01:25:00
+1431,1781,233,245,3,Got there fine but driver was quiet.,2016-11-28 03:04:00
+1432,1481,471,205,5,Very professional and courteous.,2016-09-28 00:14:00
+1433,2599,529,493,4,"Comfortable trip, would ride again.",2018-01-06 04:57:00
+1434,354,989,120,4,"Comfortable trip, would ride again.",2016-01-05 08:20:00
+1435,2694,489,528,4,"Comfortable trip, would ride again.",2018-01-26 23:22:00
+1436,2505,660,460,3,"Ride was okay, nothing special.",2017-12-14 11:40:00
+1439,2616,878,498,4,Driver was friendly and mostly on time.,2018-01-08 14:47:00
+1440,1974,884,273,4,"Good ride overall, no complaints.",2016-12-29 19:49:00
+1442,1792,329,249,5,Best Uber experience I've had.,2016-11-29 06:26:00
+1443,2435,500,429,5,Highly recommend this driver!,2017-11-29 05:08:00
+1444,1805,216,254,4,"Good experience, car was clean.",2016-12-01 13:30:00
+1445,25,655,9,4,"Good ride overall, no complaints.",2015-05-21 09:37:00
+1446,2804,422,568,4,"Good experience, car was clean.",2018-02-21 10:36:00
+1447,52,612,18,5,Best Uber experience I've had.,2015-06-07 13:59:00
+1449,1795,93,250,3,"Average experience, car could be cleaner.",2016-11-28 22:46:00
+1450,2500,810,458,4,"Good experience, car was clean.",2017-12-13 19:21:00
+1451,1975,95,274,4,Driver was friendly and mostly on time.,2016-12-30 14:22:00
+1452,2456,937,149,5,Very professional and courteous.,2017-12-01 06:42:00
+1453,2696,972,529,5,Driver was super friendly and on time.,2018-01-27 10:05:00
+1457,2191,351,350,4,"Comfortable trip, would ride again.",2017-07-18 02:48:00
+1458,2070,821,307,4,"Comfortable trip, would ride again.",2017-05-12 17:10:00
+1459,2509,546,461,5,Perfect ride from start to finish.,2017-12-14 12:30:00
+1460,264,94,91,4,"Nice driver, took a slightly longer route.",2015-09-29 06:49:00
+1461,316,719,106,4,"Good ride overall, no complaints.",2015-10-30 16:58:00
+1463,2034,225,293,3,"Ride was okay, nothing special.",2017-02-11 05:00:00
+1464,2515,328,463,2,"Arrived late, not a great experience.",2017-12-15 23:14:00
+1466,893,569,115,4,"Comfortable trip, would ride again.",2016-05-15 17:39:00
+1467,2066,764,305,4,"Solid ride, arrived safely.",2017-04-27 02:31:00
+1468,171,393,55,4,Driver was friendly and mostly on time.,2015-09-13 06:39:00
+1469,248,383,15,3,"Ride was okay, nothing special.",2015-09-27 20:40:00
+1470,2136,535,330,4,Driver was friendly and mostly on time.,2017-06-19 09:55:00
+1471,910,591,158,4,Driver was friendly and mostly on time.,2016-05-18 06:18:00
+1473,689,836,131,5,"Comfortable car, great conversation.",2016-03-23 04:50:00
+1475,1787,343,247,4,"Comfortable trip, would ride again.",2016-11-28 03:53:00
+1477,2944,643,621,4,"Nice driver, took a slightly longer route.",2018-04-20 20:54:00
+1478,2668,878,520,5,"Fantastic ride, very smooth!",2018-01-18 02:05:00
+1479,1459,385,198,4,"Nice driver, took a slightly longer route.",2016-09-25 19:41:00
+1480,2201,297,354,3,Got there fine but driver was quiet.,2017-07-29 18:25:00
+1481,172,701,55,5,"Comfortable car, great conversation.",2015-09-13 20:39:00
+1482,2751,905,551,5,Very professional and courteous.,2018-02-11 09:05:00
+1483,2225,973,363,5,"Comfortable car, great conversation.",2017-08-14 13:58:00
+1485,2550,590,474,5,Best Uber experience I've had.,2017-12-20 15:33:00
+1486,1034,178,167,4,"Good experience, car was clean.",2016-06-13 10:41:00
+1487,312,713,105,5,Driver was super friendly and on time.,2015-10-31 07:38:00
+1489,6,535,2,4,Driver was friendly and mostly on time.,2015-05-12 18:12:00
+1490,4,419,1,4,"Solid ride, arrived safely.",2015-05-12 07:55:00
+1492,1777,316,242,5,Driver was super friendly and on time.,2016-11-27 04:02:00
+1493,2602,631,494,4,Driver was friendly and mostly on time.,2018-01-06 17:47:00
+1495,2236,99,115,4,"Comfortable trip, would ride again.",2017-08-19 10:59:00
+1496,2209,183,240,5,Perfect ride from start to finish.,2017-08-08 12:04:00
+1498,1625,496,231,5,Best Uber experience I've had.,2016-11-04 20:46:00
+1500,2300,15,389,3,Driver seemed distracted at times.,2017-10-25 19:56:00
+1504,1462,10,199,4,"Good ride overall, no complaints.",2016-09-25 15:37:00
+1506,2517,545,463,4,"Good experience, car was clean.",2017-12-16 06:14:00
+1507,2238,117,115,4,"Good experience, car was clean.",2017-08-19 00:59:00
+1510,2356,93,405,4,"Nice driver, took a slightly longer route.",2017-11-25 14:44:00
+1512,1468,987,202,5,Very professional and courteous.,2016-09-25 23:59:00
+1513,2671,932,519,5,Best Uber experience I've had.,2018-01-18 05:56:00
+1514,317,853,107,5,Clean car and great driver!,2015-11-08 12:23:00
+1517,2606,873,495,3,"Ride was okay, nothing special.",2018-01-07 10:20:00
+1518,857,772,150,4,"Good ride overall, no complaints.",2016-05-07 20:20:00
+1522,2189,816,350,4,"Solid ride, arrived safely.",2017-07-18 11:48:00
+1523,2874,177,594,4,"Good ride overall, no complaints.",2018-03-16 23:52:00
+1525,2471,348,443,4,"Nice driver, took a slightly longer route.",2017-12-05 20:59:00
+1527,2092,947,313,3,Driver seemed distracted at times.,2017-06-01 15:53:00
+1528,2672,520,519,5,"Fantastic ride, very smooth!",2018-01-19 04:56:00
+1529,2254,822,373,5,Very professional and courteous.,2017-08-21 09:10:00
+1532,352,467,119,3,Got there fine but driver was quiet.,2016-01-02 19:43:00
+1535,2199,846,353,4,"Comfortable trip, would ride again.",2017-07-30 17:51:00
+1536,2455,872,149,3,Decent ride but took longer than expected.,2017-12-01 09:42:00
+1537,159,874,52,4,"Good ride overall, no complaints.",2015-09-11 10:29:00
+1540,2754,260,552,4,"Comfortable trip, would ride again.",2018-02-10 15:46:00
+1541,2638,449,509,4,"Nice driver, took a slightly longer route.",2018-01-14 19:33:00
+1543,2824,940,575,5,Highly recommend this driver!,2018-03-01 02:40:00
+1544,2732,404,542,4,"Comfortable trip, would ride again.",2018-02-06 17:11:00
+1545,2329,769,397,5,Clean car and great driver!,2017-11-16 14:15:00
+1546,327,120,110,4,"Good ride overall, no complaints.",2015-11-28 16:42:00
+1547,2116,311,323,4,"Good ride overall, no complaints.",2017-06-14 00:12:00
+1550,1474,71,204,4,"Comfortable trip, would ride again.",2016-09-29 08:25:00
+1552,2674,150,521,4,"Solid ride, arrived safely.",2018-01-19 21:59:00
+1554,688,913,131,4,"Solid ride, arrived safely.",2016-03-22 11:50:00
+1560,2562,186,479,4,Driver was friendly and mostly on time.,2017-12-22 16:23:00
+1562,2939,397,619,5,Clean car and great driver!,2018-04-13 05:05:00
+1563,2330,897,397,3,Decent ride but took longer than expected.,2017-11-16 16:15:00
+1564,2148,436,337,4,"Solid ride, arrived safely.",2017-06-22 15:11:00
+1565,198,726,66,4,"Nice driver, took a slightly longer route.",2015-09-17 05:47:00
+1566,2853,481,585,5,Perfect ride from start to finish.,2018-03-07 07:44:00
+1569,1778,341,242,4,"Good experience, car was clean.",2016-11-27 16:02:00
+1570,2167,264,341,4,"Good experience, car was clean.",2017-07-04 17:09:00
+1573,2205,741,355,5,Highly recommend this driver!,2017-08-04 14:59:00
+1577,2368,856,408,5,"Fantastic ride, very smooth!",2017-11-25 18:19:00
+1579,1968,906,272,5,Highly recommend this driver!,2016-12-29 13:56:00
+1586,895,37,153,4,"Solid ride, arrived safely.",2016-05-16 12:15:00
+1589,2271,931,379,4,Driver was friendly and mostly on time.,2017-09-04 20:11:00
+1591,2284,759,383,4,"Good experience, car was clean.",2017-09-23 17:06:00
+1592,2196,75,352,4,"Comfortable trip, would ride again.",2017-07-29 15:12:00
+1595,2761,294,554,3,Driver seemed distracted at times.,2018-02-12 21:04:00
+1596,2737,510,543,5,"Comfortable car, great conversation.",2018-02-08 08:04:00
+1597,91,233,31,3,Driver seemed distracted at times.,2015-06-15 20:37:00
+1598,2071,110,307,4,"Solid ride, arrived safely.",2017-05-12 00:10:00
+1601,1951,776,265,4,"Solid ride, arrived safely.",2016-12-19 20:04:00
+1603,1087,367,174,4,"Solid ride, arrived safely.",2016-06-26 20:03:00
+1605,2844,932,582,4,"Good ride overall, no complaints.",2018-03-07 19:31:00
+1608,2469,951,442,4,"Good ride overall, no complaints.",2017-12-03 14:29:00
+1610,2433,547,428,3,Driver seemed distracted at times.,2017-11-28 12:06:00
+1613,2080,676,310,3,Decent ride but took longer than expected.,2017-05-26 14:02:00
+1614,2098,700,316,5,"Comfortable car, great conversation.",2017-06-05 12:38:00
+1616,2359,382,406,4,"Good ride overall, no complaints.",2017-11-25 09:52:00
+1618,2663,573,115,5,Clean car and great driver!,2018-01-17 13:58:00
+1619,1194,84,175,3,Got there fine but driver was quiet.,2016-07-10 06:57:00
+1620,149,88,49,4,"Good experience, car was clean.",2015-09-07 06:29:00
+1621,2082,591,310,5,Best Uber experience I've had.,2017-05-27 08:02:00
+1623,829,523,146,4,"Nice driver, took a slightly longer route.",2016-05-07 02:36:00
+1624,1570,267,219,4,"Nice driver, took a slightly longer route.",2016-10-14 15:42:00
+1626,1223,273,176,3,Decent ride but took longer than expected.,2016-07-13 20:35:00
+1629,2068,297,306,5,Driver was super friendly and on time.,2017-04-28 05:36:00
+1631,730,317,135,3,Driver seemed distracted at times.,2016-04-05 06:13:00
+1633,1946,800,263,5,"Comfortable car, great conversation.",2016-12-17 12:33:00
+1634,2913,323,608,3,"Ride was okay, nothing special.",2018-03-28 13:50:00
+1636,844,873,147,4,"Nice driver, took a slightly longer route.",2016-05-08 00:18:00
+1637,2114,629,322,5,Driver was super friendly and on time.,2017-06-14 07:34:00
+1638,11,973,4,4,"Solid ride, arrived safely.",2015-05-16 14:44:00
+1639,1588,623,227,5,Highly recommend this driver!,2016-10-28 17:33:00
+1640,2276,414,381,3,Driver seemed distracted at times.,2017-09-12 05:17:00
+1641,2348,232,403,4,"Comfortable trip, would ride again.",2017-11-24 23:41:00
+1643,2457,136,438,4,"Solid ride, arrived safely.",2017-11-30 15:56:00
+1644,293,60,99,5,"Fantastic ride, very smooth!",2015-10-01 21:48:00
+1646,2700,715,402,5,"Comfortable car, great conversation.",2018-01-27 15:44:00
+1647,1059,14,115,4,"Nice driver, took a slightly longer route.",2016-06-14 08:57:00
+1649,553,981,127,4,"Comfortable trip, would ride again.",2016-03-02 11:56:00
+1651,356,300,120,5,Perfect ride from start to finish.,2016-01-04 21:20:00
+1654,2714,84,534,3,"Ride was okay, nothing special.",2018-01-29 12:55:00
+1655,784,207,142,5,Driver was super friendly and on time.,2016-05-01 07:37:00

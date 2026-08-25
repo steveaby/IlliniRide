@@ -1,0 +1,9 @@
+{
+  "name": "illiniride-stage4-checkpoint1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal IlliniRide web app for CS 411 Stage 4 Checkpoint 1",
+  "scripts": {
+    "start": "node app/server.js"
+  }
+}

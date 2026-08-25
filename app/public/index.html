@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IlliniRide</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#" data-nav="search">IlliniRide</a>
+      <nav class="nav-links">
+        <button class="nav-link active" data-nav="search">Search</button>
+        <button class="nav-link" data-nav="trips">My trips</button>
+        <button class="nav-link" data-nav="offers">My published rides</button>
+        <button class="nav-link" data-nav="offer">Offer a ride</button>
+      </nav>
+      <div id="account-chip" class="account-chip">Continue as a rider</div>
+    </header>
+
+    <main>
+      <section class="account-panel">
+        <div>
+          <p class="eyebrow">Demo account</p>
+          <h2>Book as a real user</h2>
+          <p>
+            Continue with an existing user ID/email, or create a lightweight
+            account. No password auth is used for this course demo.
+          </p>
+        </div>
+        <form id="login-form" class="inline-form">
+          <input name="identifier" type="text" value="1" placeholder="User ID or email" />
+          <button type="submit">Continue</button>
+        </form>
+        <form id="signup-form" class="inline-form muted-form">
+          <input name="name" type="text" placeholder="Name" />
+          <input name="email" type="email" placeholder="Email" />
+          <input name="phone" type="text" placeholder="Phone" />
+          <button type="submit">Sign up</button>
+        </form>
+        <div id="account-status" class="status"></div>
+      </section>
+
+      <section id="view-search" class="view active">
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">Campus carpooling</p>
+            <h1>Share the ride out of Champaign.</h1>
+            <p>
+              Find open seats, book instantly, and split the cost with drivers
+              heading the same way.
+            </p>
+          </div>
+
+          <form id="search-form" class="search-card">
+            <label>
+              From
+              <input name="origin" type="text" value="Chicago" required />
+            </label>
+            <label>
+              To
+              <input name="destination" type="text" value="Miami" required />
+            </label>
+            <label>
+              Date
+              <input name="date" type="date" value="2026-05-02" />
+            </label>
+            <label>
+              Passengers
+              <input name="seats" type="number" min="1" max="8" value="1" required />
+            </label>
+            <button type="submit">Search rides</button>
+          </form>
+        </section>
+
+        <section class="content-section">
+          <div class="section-title">
+            <div>
+              <p class="eyebrow">Available rides</p>
+              <h2>Choose a trip</h2>
+            </div>
+            <p id="search-status" class="status"></p>
+          </div>
+          <div id="ride-results" class="ride-grid"></div>
+        </section>
+      </section>
+
+      <section id="view-booking" class="view">
+        <section class="content-section narrow">
+          <button class="ghost-button" data-nav="search">Back to results</button>
+          <div class="section-title">
+            <div>
+              <p class="eyebrow">Confirm booking</p>
+              <h2>Review your ride</h2>
+            </div>
+          </div>
+          <div id="booking-detail" class="detail-card"></div>
+          <div id="booking-status" class="status"></div>
+        </section>
+      </section>
+
+      <section id="view-trips" class="view">
+        <section class="content-section">
+          <div class="section-title">
+            <div>
+              <p class="eyebrow">Your bookings</p>
+              <h2>My trips</h2>
+            </div>
+            <button id="refresh-trips" type="button">Refresh trips</button>
+          </div>
+          <div id="trips-status" class="status"></div>
+          <div id="trips-list" class="trip-list"></div>
+        </section>
+      </section>
+
+      <section id="view-offers" class="view">
+        <section class="content-section">
+          <div class="section-title">
+            <div>
+              <p class="eyebrow">Your offered rides</p>
+              <h2>My published rides</h2>
+            </div>
+            <button id="refresh-offers" type="button">Refresh rides</button>
+          </div>
+          <div id="offers-status" class="status"></div>
+          <div id="offers-list" class="trip-list"></div>
+        </section>
+      </section>
+
+      <section id="view-review" class="view">
+        <section class="content-section narrow">
+          <button class="ghost-button" data-nav="trips">Back to my trips</button>
+          <div class="section-title">
+            <div>
+              <p class="eyebrow">Review driver</p>
+              <h2>How was the ride?</h2>
+            </div>
+          </div>
+          <div id="review-context" class="detail-card"></div>
+          <form id="review-form" class="panel-form">
+            <label>
+              Rating
+              <input name="rating" type="number" min="1" max="5" value="5" required />
+            </label>
+            <label>
+              Comment
+              <textarea name="comment" rows="4">Reliable ride and friendly driver.</textarea>
+            </label>
+            <button type="submit">Submit review</button>
+          </form>
+          <div id="review-status" class="status"></div>
+        </section>
+      </section>
+
+      <section id="view-offer" class="view">
+        <section class="content-section narrow">
+          <div class="section-title">
+            <div>
+              <p class="eyebrow">Stored procedure</p>
+              <h2>Offer a ride</h2>
+            </div>
+          </div>
+          <p class="helper-copy">
+            This calls the database stored procedure that validates the
+            driver/vehicle relationship and computes a suggested price.
+          </p>
+          <form id="offer-form" class="panel-form">
+            <p id="driver-info" class="muted">Driver: <strong>Continue as a rider first</strong></p>
+            <div class="two-col">
+              <label>
+                Vehicle
+                <select name="vehicleId" id="vehicle-select" required>
+                  <option value="">Select a vehicle...</option>
+                </select>
+              </label>
+            </div>
+            <div class="two-col">
+              <label>
+                Origin City
+                <input name="originCity" type="text" value="Chicago" required />
+              </label>
+              <label>
+                Destination City
+                <input name="destinationCity" type="text" value="Miami" required />
+              </label>
+            </div>
+            <div class="two-col">
+              <label>
+                Departure
+                <input name="departureTime" type="text" value="2026-05-02 09:00:00" required />
+              </label>
+              <label>
+                Arrival
+                <input name="arrivalTime" type="text" value="2026-05-02 12:00:00" required />
+              </label>
+            </div>
+            <label>
+              Custom Price (Optional)
+              <input name="pricePerSeat" type="number" step="0.01" min="0" placeholder="Leave blank to use dynamic suggested price" />
+            </label>
+            <button type="submit">Publish ride</button>
+          </form>
+          <div id="offer-status" class="status"></div>
+          <div id="offer-result"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+</html>
