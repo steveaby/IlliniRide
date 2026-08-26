@@ -141,15 +141,18 @@ Ensure MySQL Server is installed and the `mysql` command-line tool is available 
 
 ---
 
-### Step 2: Database Initialization
+### Step 2: Database Initialization & Data Loading
 
-1. Create the `illiniride` database:
+1. Create the `illiniride` database and schema tables:
    ```bash
    mysql -u root -p -e "CREATE DATABASE IF NOT EXISTS illiniride;"
    ```
    *(If your local root account has no password, omit `-p`)*
 
-2. Load the initial schema and tables with your data files from `data/`.
+2. Populate the tables with the CSV data files:
+   ```bash
+   npm run import-data
+   ```
 
 3. Apply the Stage 4 advanced database routines (stored procedures, triggers, and transactions):
    ```bash

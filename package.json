@@ -4,6 +4,7 @@
   "private": true,
   "description": "Minimal IlliniRide web app for CS 411 Stage 4 Checkpoint 1",
   "scripts": {
-    "start": "node app/server.js"
+    "start": "node app/server.js",
+    "import-data": "node data/import_data.js"
   }
 }
