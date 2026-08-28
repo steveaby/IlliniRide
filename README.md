@@ -37,17 +37,29 @@ Commuting between the UIUC campus and major hubs like Chicago or O'Hare (ORD) is
 
 ## 📸 Application Screenshots
 
-### 1. Ride Search & Availability
-Search for available campus carpools by origin, destination city, date, and seat count:
+### 1. Ride Search & Live Availability
+Search for available campus carpools by origin, destination city, date, and seat count with real-time seat tracking:
 ![Search Rides](doc/screenshots/search_rides.png)
 
-### 2. Offer a Ride & Dynamic Price Calculation
-Drivers can publish rides with automated distance-based suggested pricing powered by MySQL stored procedures:
+### 2. Interactive Booking Flow & Confirmation
+Review trip itinerary, vehicle details, driver ratings, and calculate total cost before safe transactional booking (`sp_book_ride_transaction`):
+![Confirm Booking](doc/screenshots/booking_confirmation.png)
+
+### 3. Offer a Ride & Dynamic Price Calculation
+Drivers can publish rides with automated distance-based suggested pricing powered by MySQL stored procedures (`sp_post_ride_with_suggested_price`):
 ![Offer a Ride](doc/screenshots/offer_ride.png)
 
-### 3. Trips & Bookings Management
-Manage bookings with transaction safety and live status updates:
+### 4. Driver Dashboard — Published Rides
+View all offered carpool rides, current schedules, seat occupancy, and status:
+![Published Rides](doc/screenshots/published_rides.png)
+
+### 5. Rider Dashboard — Trips & Bookings Management
+Manage bookings with transaction safety, update seat counts, cancel trips, and delete reservations:
 ![My Trips](doc/screenshots/my_trips.png)
+
+### 6. Driver Review & Automated Rating Recomputation
+Submit feedback and driver star ratings; triggers automatically recalculate aggregate driver scores (`trg_reviews_after_insert_update_user_rating`):
+![Review Driver](doc/screenshots/review_driver.png)
 
 ---
 
@@ -57,6 +69,7 @@ Manage bookings with transaction safety and live status updates:
 - 🏷️ **Dynamic Price Suggestion:** Stored procedure calculates geospatial distance between cities to suggest fair base prices.
 - 🛡️ **Safe Seat Booking (ACID):** Stored procedure with serializable transaction isolation prevents overbooking and duplicate reservations.
 - 📋 **Full CRUD Operations:** Complete management for Bookings and Rides with raw SQL execution (zero ORM overhead).
+- 🚗 **Driver Management & Fleet Linking:** Easily select verified driver vehicles when publishing new routes.
 - ⭐ **Automated Rating System:** Database trigger automatically recalculates user ratings whenever new reviews are submitted.
 
 ---
@@ -98,8 +111,11 @@ IlliniRide/
 ├── doc/
 │   ├── screenshots/          # Application UI screenshots
 │   │   ├── search_rides.png
+│   │   ├── booking_confirmation.png
 │   │   ├── offer_ride.png
-│   │   └── my_trips.png
+│   │   ├── published_rides.png
+│   │   ├── my_trips.png
+│   │   └── review_driver.png
 │   ├── stage4_advanced_database_programs.sql # Stored procedures, triggers & transactions
 │   ├── stage4_project_report.md              # Stage 4 reflection report
 │   ├── stage1_proposal.md                    # Project proposal
